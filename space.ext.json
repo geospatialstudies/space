@@ -1,9 +1,9 @@
 
 {
     "type": "CityJSONExtension",
-    "name": "3DValuation",
-    "description": "Extension for 3D property valuation",
-    "url": "https://raw.githubusercontent.com/geospatialstudies/3DValuation/main/extension/3Dvaluation.ext.json",
+    "name": "3DSpace",
+    "description": "Extension for 3D modeling of interests on space exploration",
+    "url": "https://raw.githubusercontent.com/geospatialstudies/space/refs/heads/main/space.ext.json",
     "version": "1.0",
     "extraAttributes": {},
     "versionCityJSON": "2.0",
@@ -38,24 +38,24 @@
                                 {
                                     "type": "number"
                                 },
-                                
+
                                 "partyName":
                                 {
                                     "type": "string"
                                 },
-								"partyNationality":
+                                "partyNationality":
                                 {
                                     "type": "string"
                                 },
-								"state":
+                                "state":
                                 {
                                     "type": "string"
                                 },
-								"name":
+                                "name":
                                 {
                                     "type": "string"
                                 },
-								"registrationDate":
+                                "registrationDate":
                                 {
                                     "type": "string"
                                 }
@@ -97,7 +97,7 @@
                 }
             ]
         },
-		"+SpaceRestriction":
+        "+SpaceRestriction":
         {
             "allOf": [
                 {
@@ -125,8 +125,7 @@
                                 {
                                     "type": "number"
                                 },
-                                
-                                
+
                                 "restrictionType":
                                 {
                                     "enum": [
@@ -176,7 +175,7 @@
             ]
         }
 
-	},
+    },
 
     "extraRootProperties": {},
 
