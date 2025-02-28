@@ -1,0 +1,185 @@
+
+{
+    "type": "CityJSONExtension",
+    "name": "3DValuation",
+    "description": "Extension for 3D property valuation",
+    "url": "https://raw.githubusercontent.com/geospatialstudies/3DValuation/main/extension/3Dvaluation.ext.json",
+    "version": "1.0",
+    "extraAttributes": {},
+    "versionCityJSON": "2.0",
+
+    "extraCityObjects":
+    {
+        "+SpaceObject":
+        {
+            "allOf": [
+                {
+                    "$ref": "cityobjects.schema.json#/_AbstractCityObject"
+                },
+                {
+                    "properties":
+                    {
+                        "type":
+                        {
+                            "enum": [
+                                "+SpaceObject"
+                            ]
+                        },
+                        "attributes":
+                        {
+                            "type": "object",
+                            "properties":
+                            {
+                                "type":
+                                {
+                                    "type": "string"
+                                },
+                                "area":
+                                {
+                                    "type": "number"
+                                },
+                                
+                                "partyName":
+                                {
+                                    "type": "string"
+                                },
+								"partyNationality":
+                                {
+                                    "type": "string"
+                                },
+								"state":
+                                {
+                                    "type": "string"
+                                },
+								"name":
+                                {
+                                    "type": "string"
+                                },
+								"registrationDate":
+                                {
+                                    "type": "string"
+                                }
+                            }
+                        },
+                        "geometry":
+                        {
+                            "type": "array",
+                            "items":
+                            {
+                                "oneOf": [
+                                    {
+                                        "$ref": "geomprimitives.schema.json#/MultiLineString"
+                                    },
+                                    {
+                                        "$ref": "geomprimitives.schema.json#/MultiSurface"
+                                    },
+                                    {
+                                        "$ref": "geomprimitives.schema.json#/CompositeSurface"
+                                    },
+                                    {
+                                        "$ref": "geomprimitives.schema.json#/Solid"
+                                    },
+                                    {
+                                        "$ref": "geomprimitives.schema.json#/CompositeSolid"
+                                    },
+                                    {
+                                        "$ref": "geomprimitives.schema.json#/MultiSolid"
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "required": [
+
+                        "type",
+                        "geometry"
+                    ]
+                }
+            ]
+        },
+		"+SpaceRestriction":
+        {
+            "allOf": [
+                {
+                    "$ref": "cityobjects.schema.json#/_AbstractCityObject"
+                },
+                {
+                    "properties":
+                    {
+                        "type":
+                        {
+                            "enum": [
+                                "+SpaceRestriction"
+                            ]
+                        },
+                        "attributes":
+                        {
+                            "type": "object",
+                            "properties":
+                            {
+                                "restrictionValue":
+                                {
+                                    "type": "number"
+                                },
+                                "restrictionUnit":
+                                {
+                                    "type": "number"
+                                },
+                                
+                                
+                                "restrictionType":
+                                {
+                                    "enum": [
+                                        "historicalSite",
+                                        "mining",
+                                        "water",
+                                        "scientific",
+                                        "landingSite"
+                                    ]
+                                }
+                            }
+                        },
+                        "geometry":
+                        {
+                            "type": "array",
+                            "items":
+                            {
+                                "oneOf": [
+                                    {
+                                        "$ref": "geomprimitives.schema.json#/MultiLineString"
+                                    },
+                                    {
+                                        "$ref": "geomprimitives.schema.json#/MultiSurface"
+                                    },
+                                    {
+                                        "$ref": "geomprimitives.schema.json#/CompositeSurface"
+                                    },
+                                    {
+                                        "$ref": "geomprimitives.schema.json#/Solid"
+                                    },
+                                    {
+                                        "$ref": "geomprimitives.schema.json#/CompositeSolid"
+                                    },
+                                    {
+                                        "$ref": "geomprimitives.schema.json#/MultiSolid"
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "required": [
+
+                        "type",
+                        "geometry"
+                    ]
+                }
+            ]
+        }
+
+	},
+
+    "extraRootProperties": {},
+
+    "extraSemanticSurfaces": {}
+
+}
