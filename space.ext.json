@@ -11,7 +11,7 @@
         "+SpaceSurfaceObject": {
             "allOf": [
                 {
-                    "$ref": "cityobjects.schema.json#/_AbstractCityObject"
+                    "$ref": "cityobjects.json#/_AbstractCityObject"
                 },
                 {
                     "properties": {
@@ -73,7 +73,7 @@
         "+SpacePlanUnit": {
             "allOf": [
                 {
-                    "$ref": "cityobjects.schema.json#/_AbstractCityObject"
+                    "$ref": "cityobjects.json#/_AbstractCityObject"
                 },
                 {
                     "properties": {
@@ -135,7 +135,7 @@
         "+SpaceLegalParcel": {
             "allOf": [
                 {
-                    "$ref": "cityobjects.schema.json#/_AbstractCityObject"
+                    "$ref": "cityobjects.json#/_AbstractCityObject"
                 },
                 {
                     "properties": {
