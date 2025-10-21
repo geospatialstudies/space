@@ -141,7 +141,7 @@
                     "properties": {
                         "type": {
                             "enum": [
-                                "+SpaceLegalParcel"
+                                "+SpaceLegalParcel", "+SpaceCommonArea"
                             ]
                         },
                         "attributes": {
