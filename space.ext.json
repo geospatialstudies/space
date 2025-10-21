@@ -1,71 +1,45 @@
-
 {
     "type": "CityJSONExtension",
     "name": "3DSpace",
     "description": "Extension for 3D modeling of interests on space exploration",
     "url": "https://raw.githubusercontent.com/geospatialstudies/space/refs/heads/main/space.ext.json",
     "version": "1.0",
-    "extraAttributes": {},
+    "extraAttributes": {
+    },
     "versionCityJSON": "2.0",
-
-    "extraCityObjects":
-    {
-        "+SpaceObject":
-        {
+    "extraCityObjects": {
+        "+SpaceSurfaceObject": {
             "allOf": [
                 {
                     "$ref": "cityobjects.schema.json#/_AbstractCityObject"
                 },
                 {
-                    "properties":
-                    {
-                        "type":
-                        {
+                    "properties": {
+                        "type": {
                             "enum": [
-                                "+SpaceObject"
+                                "+SpaceSurfaceObject"
                             ]
                         },
-                        "attributes":
-                        {
+                        "attributes": {
                             "type": "object",
-                            "properties":
-                            {
-                                "type":
-                                {
+                            "properties": {
+                                "objectName": {
                                     "type": "string"
                                 },
-                                "area":
-                                {
-                                    "type": "number"
-                                },
-
-                                "partyName":
-                                {
+                                "objectType": {
                                     "type": "string"
                                 },
-                                "partyNationality":
-                                {
+                                "registrationDate": {
                                     "type": "string"
                                 },
-                                "state":
-                                {
-                                    "type": "string"
-                                },
-                                "name":
-                                {
-                                    "type": "string"
-                                },
-                                "registrationDate":
-                                {
+                                "surfaceObjectID": {
                                     "type": "string"
                                 }
                             }
                         },
-                        "geometry":
-                        {
+                        "geometry": {
                             "type": "array",
-                            "items":
-                            {
+                            "items": {
                                 "oneOf": [
                                     {
                                         "$ref": "geomprimitives.schema.json#/MultiLineString"
@@ -90,59 +64,44 @@
                         }
                     },
                     "required": [
-
                         "type",
                         "geometry"
                     ]
                 }
             ]
         },
-        "+SpaceRestriction":
-        {
+        "+SpacePlanUnit": {
             "allOf": [
                 {
                     "$ref": "cityobjects.schema.json#/_AbstractCityObject"
                 },
                 {
-                    "properties":
-                    {
-                        "type":
-                        {
+                    "properties": {
+                        "type": {
                             "enum": [
-                                "+SpaceRestriction"
+                                "+SpacePlanUnit"
                             ]
                         },
-                        "attributes":
-                        {
+                        "attributes": {
                             "type": "object",
-                            "properties":
-                            {
-                                "restrictionValue":
-                                {
+                            "properties": {
+                                "abovegroundDepth": {
                                     "type": "number"
                                 },
-                                "restrictionUnit":
-                                {
+                                "undergroundDepth": {
                                     "type": "number"
                                 },
-
-                                "restrictionType":
-                                {
-                                    "enum": [
-                                        "historicalSite",
-                                        "mining",
-                                        "water",
-                                        "scientific",
-                                        "landingSite"
-                                    ]
+                                "planUseType": {
+                                    "type": "string"
+                                },
+                                "planObjectID": {
+                                    "type": "string"
                                 }
                             }
                         },
-                        "geometry":
-                        {
+                        "geometry": {
                             "type": "array",
-                            "items":
-                            {
+                            "items": {
                                 "oneOf": [
                                     {
                                         "$ref": "geomprimitives.schema.json#/MultiLineString"
@@ -167,18 +126,135 @@
                         }
                     },
                     "required": [
-
                         "type",
                         "geometry"
                     ]
                 }
             ]
+        },
+        "+SpaceLegalParcel": {
+            "allOf": [
+                {
+                    "$ref": "cityobjects.schema.json#/_AbstractCityObject"
+                },
+                {
+                    "properties": {
+                        "type": {
+                            "enum": [
+                                "+SpaceLegalParcel"
+                            ]
+                        },
+                        "attributes": {
+                            "type": "object",
+                            "properties": {
+                                "legalObjectID": {
+                                    "type": "string"
+                                },
+                                "parcelUseType": {
+                                    "type": "string"
+                                }
+                            }
+                        },
+                        "geometry": {
+                            "type": "array",
+                            "items": {
+                                "oneOf": [
+                                    {
+                                        "$ref": "geomprimitives.schema.json#/MultiLineString"
+                                    },
+                                    {
+                                        "$ref": "geomprimitives.schema.json#/MultiSurface"
+                                    },
+                                    {
+                                        "$ref": "geomprimitives.schema.json#/CompositeSurface"
+                                    },
+                                    {
+                                        "$ref": "geomprimitives.schema.json#/Solid"
+                                    },
+                                    {
+                                        "$ref": "geomprimitives.schema.json#/CompositeSolid"
+                                    },
+                                    {
+                                        "$ref": "geomprimitives.schema.json#/MultiSolid"
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "required": [
+                        "type",
+                        "geometry"
+                    ]
+                }
+            ]
+        },
+        "+SpaceBuilding": {
+            "allOf": [
+                {
+                    "$ref": "cityobjects.json#/_AbstractBuilding"
+                },
+                {
+                    "properties": {
+                        "type": {
+                            "enum": [
+                                "+SpaceBuilding"
+                            ]
+                        },
+                        "attributes": {
+                            "properties": {
+                                "buildingID": {
+                                    "type": "number"
+                                },
+                                "buildingName": {
+                                    "type": "string"
+                                },
+                                "buildingObjectID": {
+                                    "type": "string"
+                                },
+                                "buildingState": {
+                                    "type": "string"
+                                },
+                                "buildingUseType": {
+                                    "type": "string"
+                                }
+                            }
+                        }
+                    },
+                    "required": [
+                        "type"
+                    ]
+                }
+            ]
+        },
+        "+SpaceCommonArea": {
+            "allOf": [
+                {
+                    "$ref": "#/+SpaceLegalParcel"
+                },
+                {
+                    "properties": {
+                        "type": {
+                            "enum": [
+                                "+SpaceCommonArea"
+                            ]
+                        },
+                        "attributes": {
+                            "properties": {
+                                "areagUseType": {
+                                    "type": "string"
+                                }
+                            }
+                        }
+                    },
+                    "required": [
+                        "type", "geometry"
+                    ]
+                }
+            ]
         }
-
     },
-
-    "extraRootProperties": {},
-
-    "extraSemanticSurfaces": {}
-
+    "extraRootProperties": {
+    },
+    "extraSemanticSurfaces": {
+    }
 }
