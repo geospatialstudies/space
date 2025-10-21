@@ -240,7 +240,7 @@
                         },
                         "attributes": {
                             "properties": {
-                                "areagUseType": {
+                                "areaUseType": {
                                     "type": "string"
                                 }
                             }
