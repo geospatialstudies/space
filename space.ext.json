@@ -229,7 +229,7 @@
         "+SpaceCommonArea": {
             "allOf": [
                 {
-                    "$ref": "#/+SpaceLegalParcel"
+                    "$ref": "#/extraCityObjects/+SpaceLegalParcel"
                 },
                 {
                     "properties": {
