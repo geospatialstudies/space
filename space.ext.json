@@ -247,7 +247,7 @@
                         }
                     },
                     "required": [
-                        "type", "geometry"
+                        "type"
                     ]
                 }
             ]
