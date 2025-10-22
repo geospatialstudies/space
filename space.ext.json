@@ -17,7 +17,8 @@
                     "properties": {
                         "type": {
                             "enum": [
-                                "+SpaceSurfaceObject"
+                                "+SpaceSurfaceObject",
+                                "+SpaceCrater"
                             ]
                         },
                         "attributes": {
@@ -132,6 +133,66 @@
                 }
             ]
         },
+        "+SpaceBuildingUnit": {
+            "allOf": [
+                {
+                    "$ref": "cityobjects.schema.json#/_AbstractCityObject"
+                },
+                {
+                    "properties": {
+                        "type": {
+                            "enum": [
+                                "+SpaceBuildingUnit"
+                            ]
+                        },
+                        "attributes": {
+                            "type": "object",
+                            "properties": {
+                                "bunitObjectID": {
+                                    "type": "string"
+                                },
+                                "unitName": {
+                                    "type": "string"
+                                },
+                                "unitUseType": {
+                                    "type": "string"
+                                }
+                            }
+                        },
+                        "geometry": {
+                            "type": "array",
+                            "items": {
+                                "oneOf": [
+                                    {
+                                        "$ref": "geomprimitives.schema.json#/MultiLineString"
+                                    },
+                                    {
+                                        "$ref": "geomprimitives.schema.json#/MultiSurface"
+                                    },
+                                    {
+                                        "$ref": "geomprimitives.schema.json#/CompositeSurface"
+                                    },
+                                    {
+                                        "$ref": "geomprimitives.schema.json#/Solid"
+                                    },
+                                    {
+                                        "$ref": "geomprimitives.schema.json#/CompositeSolid"
+                                    },
+                                    {
+                                        "$ref": "geomprimitives.schema.json#/MultiSolid"
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "required": [
+                        "type",
+                        "geometry",
+                        "parents"
+                    ]
+                }
+            ]
+        },
         "+SpaceLegalParcel": {
             "allOf": [
                 {
@@ -141,7 +202,10 @@
                     "properties": {
                         "type": {
                             "enum": [
-                                "+SpaceLegalParcel", "+SpaceCommonArea"
+                                "+SpaceLegalParcel",
+                                "+SpaceCommonArea",
+                                "+SpaceRestriction",
+                                "+SpaceScientificEvidence"
                             ]
                         },
                         "attributes": {
@@ -241,6 +305,152 @@
                         "attributes": {
                             "properties": {
                                 "areaUseType": {
+                                    "type": "string"
+                                }
+                            }
+                        }
+                    },
+                    "required": [
+                        "type"
+                    ]
+                }
+            ]
+        },
+        "+SpaceRestriction": {
+            "allOf": [
+                {
+                    "$ref": "#/extraCityObjects/+SpaceLegalParcel"
+                },
+                {
+                    "properties": {
+                        "type": {
+                            "enum": [
+                                "+SpaceRestriction",
+                                "+SpaceProtectedArea"
+                            ]
+                        },
+                        "attributes": {
+                            "properties": {
+                                "relatedObjectID": {
+                                    "type": "string"
+                                },
+                                "restrictionObjectID": {
+                                    "type": "string"
+                                },
+                                "restrictionType": {
+                                    "type": "string",
+                                    "enum": [
+                                        "historicalSite",
+                                        "mining",
+                                        "scientific",
+                                        "landingSite",
+                                        "radiation"
+                                    ]
+                                },
+                                "restrictionUnit": {
+                                    "type": "string"
+                                },
+                                "restrictionValue": {
+                                    "type": "number"
+                                }
+                            }
+                        }
+                    },
+                    "required": [
+                        "type"
+                    ]
+                }
+            ]
+        },
+        "+SpaceProtectedArea": {
+            "allOf": [
+                {
+                    "$ref": "#/extraCityObjects/+SpaceRestriction"
+                },
+                {
+                    "properties": {
+                        "type": {
+                            "enum": [
+                                "+SpaceProtectedArea"
+                            ]
+                        },
+                        "attributes": {
+                            "properties": {
+                                "areaName": {
+                                    "type": "string"
+                                }
+                            }
+                        }
+                    },
+                    "required": [
+                        "type"
+                    ]
+                }
+            ]
+        },
+        "+SpaceScientificEvidence": {
+            "allOf": [
+                {
+                    "$ref": "#/extraCityObjects/+SpaceLegalParcel"
+                },
+                {
+                    "properties": {
+                        "type": {
+                            "enum": [
+                                "+SpaceScientificEvidence"
+                            ]
+                        },
+                        "attributes": {
+                            "properties": {
+                                "evidenceType": {
+                                    "type": "string",
+                                    "enum": [
+                                        "water",
+                                        "waterIce",
+                                        "geological",
+                                        "astrobiological",
+                                        "carbonate"
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    "required": [
+                        "type"
+                    ]
+                }
+            ]
+        },
+        "+SpaceCrater": {
+            "allOf": [
+                {
+                    "$ref": "#/extraCityObjects/+SpaceSurfaceObject"
+                },
+                {
+                    "properties": {
+                        "type": {
+                            "enum": [
+                                "+SpaceCrater"
+                            ]
+                        },
+                        "attributes": {
+                            "properties": {
+                                "craterID": {
+                                    "type": "string"
+                                },
+                                "depth": {
+                                    "type": "number"
+                                },
+                                "diameter": {
+                                    "type": "number"
+                                },
+                                "maxAlbedo": {
+                                    "type": "number"
+                                },
+                                "minAlbedo": {
+                                    "type": "number"
+                                },
+                                "source": {
                                     "type": "string"
                                 }
                             }
