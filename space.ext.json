@@ -193,7 +193,7 @@
                 }
             ]
         },
-        "+SpaceLegalParcel": {
+        "+SpaceLegal": {
             "allOf": [
                 {
                     "$ref": "cityobjects.schema.json#/_AbstractCityObject"
@@ -202,7 +202,7 @@
                     "properties": {
                         "type": {
                             "enum": [
-                                "+SpaceLegalParcel",
+                                "+SpaceLegal",
                                 "+SpaceCommonArea",
                                 "+SpaceRestriction",
                                 "+SpaceScientificEvidence"
@@ -293,7 +293,7 @@
         "+SpaceCommonArea": {
             "allOf": [
                 {
-                    "$ref": "#/extraCityObjects/+SpaceLegalParcel"
+                    "$ref": "#/extraCityObjects/+SpaceLegal"
                 },
                 {
                     "properties": {
@@ -319,7 +319,7 @@
         "+SpaceRestriction": {
             "allOf": [
                 {
-                    "$ref": "#/extraCityObjects/+SpaceLegalParcel"
+                    "$ref": "#/extraCityObjects/+SpaceLegal"
                 },
                 {
                     "properties": {
@@ -391,7 +391,7 @@
         "+SpaceScientificEvidence": {
             "allOf": [
                 {
-                    "$ref": "#/extraCityObjects/+SpaceLegalParcel"
+                    "$ref": "#/extraCityObjects/+SpaceLegal"
                 },
                 {
                     "properties": {
