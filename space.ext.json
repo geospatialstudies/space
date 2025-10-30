@@ -325,8 +325,7 @@
                     "properties": {
                         "type": {
                             "enum": [
-                                "+SpaceRestriction",
-                                "+SpaceProtectedArea"
+                                "+SpaceRestriction"
                             ]
                         },
                         "attributes": {
@@ -365,7 +364,7 @@
         "+SpaceProtectedArea": {
             "allOf": [
                 {
-                    "$ref": "#/extraCityObjects/+SpaceRestriction"
+                    "$ref": "#/extraCityObjects/+SpaceLegal"
                 },
                 {
                     "properties": {
