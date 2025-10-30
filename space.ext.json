@@ -437,7 +437,7 @@
                         "attributes": {
                             "properties": {
                                 "craterID": {
-                                    "type": "string"
+                                    "type": "number"
                                 },
                                 "depth": {
                                     "type": "number"
