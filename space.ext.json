@@ -344,7 +344,8 @@
                                         "mining",
                                         "scientific",
                                         "landingSite",
-                                        "radiation"
+                                        "radiation",
+                                        "settlement"
                                     ]
                                 },
                                 "restrictionUnit": {
