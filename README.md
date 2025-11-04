@@ -1,5 +1,5 @@
 
 # CityJSON Space Extension
 
-This repository covers the CityJSON extension file that is developed for 3D modeling of potential interests on celestial bodies. It also includes the created CityJSON file for demonstration purposes and their validation results.
+This repository covers the CityJSON extension file that is developed for 3D modeling of potential interests on celestial bodies.
 
