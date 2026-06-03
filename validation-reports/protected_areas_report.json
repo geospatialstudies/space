@@ -1,0 +1,1811 @@
+{
+  "all_errors": [],
+  "dataset_errors": [],
+  "features": [
+    {
+      "errors": [],
+      "id": "01003c00-a16f-445e-9479-74e03238922a",
+      "type": "+SpaceSurfaceObject",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "01b75d9b-ca55-4897-a293-d440668bd240",
+      "type": "+SpaceRestriction",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "029a2d66-0303-43ce-8cb3-a482b1d3097c",
+      "type": "+SpaceRestriction",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "03147b91-0436-442a-aadb-b56656a54392",
+      "type": "+SpaceRestriction",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "056ce58d-15f5-478e-be79-a4db57b60f70",
+      "type": "+SpaceSurfaceObject",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "05f4a45b-73b0-49a9-856d-39a2bb80b268",
+      "type": "+SpaceSurfaceObject",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "06d9f0ef-d366-47c1-84d5-6bb3f1387535",
+      "type": "+SpaceProtectedArea",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "0825a26f-d5ff-4cc1-ab04-b57b53188810",
+      "type": "+SpaceSurfaceObject",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "08405f61-dd4f-4171-aa9c-cb54d0d07cdb",
+      "type": "+SpaceRestriction",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "08e3e9b2-fb70-4a6f-a859-d7ba4c2649c2",
+      "type": "+SpaceSurfaceObject",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "0ae6d4f3-52c8-4d9c-aeec-502a620466b1",
+      "type": "+SpaceRestriction",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "0b176bdf-70aa-4685-8b50-df1e1d651a44",
+      "type": "+SpaceSurfaceObject",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "0cee5bd8-53dc-4f6b-a12b-45b2bfe6098d",
+      "type": "+SpaceSurfaceObject",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "0e2fa3f1-353f-4405-9a52-f58252fa60c9",
+      "type": "+SpaceSurfaceObject",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "0e344e1b-1a75-4003-aadb-456628b1384d",
+      "type": "+SpaceRestriction",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "0f123451-dd96-4576-a647-7a0a837d26e0",
+      "type": "+SpaceRestriction",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "0f7a1b85-5f11-4fd3-9264-ab414c1be5ac",
+      "type": "+SpaceSurfaceObject",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "1064bf8a-7670-4795-bea2-d23d8b927939",
+      "type": "+SpaceRestriction",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "11e1ad86-4855-4c92-a9b7-ec97aebea2a5",
+      "type": "+SpaceRestriction",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "1260f147-a62e-4ad2-99bd-2d183b414301",
+      "type": "+SpaceSurfaceObject",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "1378e6db-6421-4785-ac88-16cb9ea53e6a",
+      "type": "+SpaceSurfaceObject",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "1401d4a0-8862-4a51-9aa1-2f8fca8f0549",
+      "type": "+SpaceProtectedArea",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "14c577d8-3855-428b-b467-39745d5c1e13",
+      "type": "+SpaceSurfaceObject",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "15a29f8c-2ab6-4627-9082-57bcb6529287",
+      "type": "+SpaceRestriction",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "17ff6635-554c-474d-9e67-7718a12766d7",
+      "type": "+SpaceRestriction",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "1805a503-24f9-4db2-bd8f-c1344379d2e3",
+      "type": "+SpaceRestriction",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "1a557dd9-f3a8-4b57-b092-0e7fd2eb854c",
+      "type": "+SpaceSurfaceObject",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "1ac01dd5-6275-4582-bb89-1694a62b9759",
+      "type": "+SpaceRestriction",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "1afcb976-ed72-4733-b913-0e4f765a0762",
+      "type": "+SpaceSurfaceObject",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "1d9caf14-de53-4608-892f-16bbb914276b",
+      "type": "+SpaceRestriction",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "1e222aa0-4f25-489c-a162-d7f4d5155540",
+      "type": "+SpaceRestriction",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "1f266483-76e4-49c0-ba69-8d8f3d68268a",
+      "type": "+SpaceSurfaceObject",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "20432a17-8d6c-4cf2-9080-cdc02225f237",
+      "type": "+SpaceRestriction",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "206048a1-d499-48f2-98e4-9297da7e2ef4",
+      "type": "+SpaceRestriction",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "21cd96fc-48be-47a0-b774-9373d1a04c9a",
+      "type": "+SpaceSurfaceObject",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "22c70d0f-d7d2-4e98-89bd-95f508c9f3d6",
+      "type": "+SpaceRestriction",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "22e81fca-7665-498b-af91-e185d3971937",
+      "type": "+SpaceRestriction",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "24becdaa-f75d-4fbd-bfa9-8e520ba2bccc",
+      "type": "+SpaceRestriction",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "24f8183a-3a34-4b88-8a95-a905c448e1b7",
+      "type": "+SpaceRestriction",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "25b22a94-2025-4825-810b-48f3f36b75ab",
+      "type": "+SpaceRestriction",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "26b1682d-8a09-440c-b467-085b3cd7782d",
+      "type": "+SpaceSurfaceObject",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "2863f370-6efa-4a63-81f6-d90aafd8575d",
+      "type": "+SpaceSurfaceObject",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "28f2d838-772e-4e4b-b00e-56fa2fce081a",
+      "type": "+SpaceRestriction",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "29f369c8-8296-4715-bd6a-ccb443aad64e",
+      "type": "+SpaceProtectedArea",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "2b142a34-4f53-4b45-90b7-2e2c7bf0adf9",
+      "type": "+SpaceSurfaceObject",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "2b64645b-8874-423f-bb37-e21dac4ccd2a",
+      "type": "+SpaceRestriction",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "2b956292-7818-4e11-a01f-37a2e1c4ef1c",
+      "type": "+SpaceRestriction",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "2b9727a2-546b-45a2-83b6-8e565e792129",
+      "type": "+SpaceRestriction",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "2cbe879c-f14b-4109-9bca-643cf83487eb",
+      "type": "+SpaceSurfaceObject",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "2e4e36e9-a6fc-4ffc-ada5-039fc88ed918",
+      "type": "+SpaceSurfaceObject",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "2f99ddaf-4cea-45e1-82ff-bb1ce644927e",
+      "type": "+SpaceRestriction",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "306571b5-55e1-403d-9b87-f331aca66b39",
+      "type": "+SpaceSurfaceObject",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "3100f181-7e32-46e6-8841-c1da9db745fd",
+      "type": "+SpaceSurfaceObject",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "311beb2b-821f-4d0e-afce-c4f975f2b3a5",
+      "type": "+SpaceSurfaceObject",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "3272514a-a8d3-452e-9b91-32b49de4e4a4",
+      "type": "+SpaceRestriction",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "330b391a-7085-4d2f-baaa-b31901f52b77",
+      "type": "+SpaceSurfaceObject",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "33b17ef5-bb4a-4559-bf7b-29af42d443e1",
+      "type": "+SpaceRestriction",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "33b35019-7a1a-45d3-b963-a6b17fc363d6",
+      "type": "+SpaceProtectedArea",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "34fb0ea7-03d9-48c1-a452-ac21c227bd13",
+      "type": "+SpaceRestriction",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "36e24076-e82b-4b83-857a-45143d1ba622",
+      "type": "+SpaceRestriction",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "370bdf9e-b9e7-470a-bef3-ae04063c9fad",
+      "type": "+SpaceRestriction",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "37e540bd-38c0-4dc8-b9eb-131405326706",
+      "type": "+SpaceSurfaceObject",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "388f5bab-0b24-4ae0-afab-99bee35ef76b",
+      "type": "+SpaceSurfaceObject",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "3a01851e-50a3-406b-a6d1-c2728a038adf",
+      "type": "+SpaceSurfaceObject",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "3a4312b1-9ef6-40ef-82a6-f3bad121a9c6",
+      "type": "+SpaceSurfaceObject",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "3a91612a-7dab-4dd6-b4f0-f32a7cad0757",
+      "type": "+SpaceRestriction",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "3b1f15e4-6b54-4251-b082-2a0c416f4d21",
+      "type": "+SpaceRestriction",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "3cc47f9e-b341-4e9c-82b7-9ce25efb4a8c",
+      "type": "+SpaceSurfaceObject",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "3db87644-f570-4af8-affd-731ed9d52307",
+      "type": "+SpaceRestriction",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "3df6dfe2-39d2-4096-8a2c-8e1a65a9b56f",
+      "type": "+SpaceRestriction",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "3e6d9890-efc4-4f46-b254-ca0db385859f",
+      "type": "+SpaceSurfaceObject",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "417c0546-1639-44f8-99ab-837f0012a56d",
+      "type": "+SpaceRestriction",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "419a5914-177b-4eae-ac88-8281079f3acf",
+      "type": "+SpaceRestriction",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "4216621c-afa7-491a-8555-0a5f3f9055ce",
+      "type": "+SpaceRestriction",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "426b2c7f-ca0c-4a10-bc97-547435cdacce",
+      "type": "+SpaceRestriction",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "4321e5d4-3546-406b-88dd-4af6ed98af4e",
+      "type": "+SpaceRestriction",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "439ae07c-e6d8-40c0-a41c-5e338d82c091",
+      "type": "+SpaceRestriction",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "44705238-76c0-4e08-96a6-0a77a2e5bad9",
+      "type": "+SpaceSurfaceObject",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "45ed22dd-62d4-48b3-8d08-bf1af7f9502d",
+      "type": "+SpaceRestriction",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "4620b402-2416-4b62-ac3a-dc1947ea761d",
+      "type": "+SpaceSurfaceObject",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "4715d244-0b0a-42f8-8d9a-fda8b05a264d",
+      "type": "+SpaceRestriction",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "47306534-a2ff-40ca-9797-4e86d448c822",
+      "type": "+SpaceSurfaceObject",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "476ca30f-a6da-417b-ac64-8a99ee95df6f",
+      "type": "+SpaceSurfaceObject",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "488420bb-929b-46c9-9e01-939b9a55b4a8",
+      "type": "+SpaceSurfaceObject",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "49691616-7f0d-483d-a1b1-1a2530e0067d",
+      "type": "+SpaceRestriction",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "4a15c8f7-bf14-4b91-ab78-8faae67191e6",
+      "type": "+SpaceRestriction",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "4b2d721c-4fc6-4f67-8b1f-12553f6652b4",
+      "type": "+SpaceRestriction",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "4b8dc1b6-0deb-46bd-a6a0-3d44bca45763",
+      "type": "+SpaceRestriction",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "4cdc1dc2-6de7-4626-b2aa-952567541485",
+      "type": "+SpaceRestriction",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "4d3c56b1-58d8-4868-b40c-5b0d0aea55b9",
+      "type": "+SpaceSurfaceObject",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "4e4f9bd2-164e-4f35-822d-4c5ad23d018f",
+      "type": "+SpaceSurfaceObject",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "4e785fe2-a71b-48e3-94df-6a9318d2cae8",
+      "type": "+SpaceSurfaceObject",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "4ebcf8a3-8c8d-41ba-9b66-a7c28d1b9b1c",
+      "type": "+SpaceRestriction",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "4ec8511f-55c0-46d3-8057-5f01136672ba",
+      "type": "+SpaceProtectedArea",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "4f5f2c73-cdd0-48ae-b8c1-5f5c9427baa1",
+      "type": "+SpaceSurfaceObject",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "4fa731f2-b12a-497a-9b38-b5bba0a1e1a5",
+      "type": "+SpaceSurfaceObject",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "508429b5-16a3-4004-9af7-e0f80c66e63a",
+      "type": "+SpaceRestriction",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "50dbfa17-5629-46f7-b868-04a66ed10079",
+      "type": "+SpaceRestriction",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "5115af86-f095-4941-acf6-c3ef34da7836",
+      "type": "+SpaceRestriction",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "517cedff-7e1a-43ab-b6f5-e336b7860942",
+      "type": "+SpaceRestriction",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "5202e771-7969-42f5-9a8c-f30d17e6d888",
+      "type": "+SpaceSurfaceObject",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "5229d698-bb29-4973-98fe-7fb07b0fe1e5",
+      "type": "+SpaceRestriction",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "52e1dc2a-778e-42cd-b647-b4ae9e13e9a4",
+      "type": "+SpaceRestriction",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "53d287cf-fb3f-458a-8e53-4de02e2513e3",
+      "type": "+SpaceSurfaceObject",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "54162d90-e10a-493b-b5ed-e2e5c5d1ac7e",
+      "type": "+SpaceRestriction",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "5449a1c5-c1da-442e-ba19-e5fabc2ad0c2",
+      "type": "+SpaceRestriction",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "54f8a6d6-399c-49c1-ae14-1ed66bbd214b",
+      "type": "+SpaceSurfaceObject",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "554c8197-e6c0-40ec-a842-9555bdffc49a",
+      "type": "+SpaceRestriction",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "58bd4f5f-0ad8-4a92-bcb7-5f392897177a",
+      "type": "+SpaceSurfaceObject",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "59a0c716-8bb1-4d77-bcab-4e80741c0b20",
+      "type": "+SpaceSurfaceObject",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "59f544d9-d9c3-48a5-b365-0e501f625280",
+      "type": "+SpaceSurfaceObject",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "5aa99fbb-007f-498e-b3da-86f25a4ffda5",
+      "type": "+SpaceSurfaceObject",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "5c68a064-9115-451b-afa8-a1d3bf6059d6",
+      "type": "+SpaceSurfaceObject",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "5db68086-05b3-4dc3-849d-694ab6fd5d3f",
+      "type": "+SpaceRestriction",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "5eafe8f9-d1e3-4e9b-b6f7-cfede48075d4",
+      "type": "+SpaceSurfaceObject",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "5f78a200-4e9b-489b-a9bc-5166648a8211",
+      "type": "+SpaceSurfaceObject",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "60683e5a-bf9b-4ad9-8081-d48c9cbf2c5c",
+      "type": "+SpaceRestriction",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "619269a8-eb62-42fb-857e-c2f687046824",
+      "type": "+SpaceSurfaceObject",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "61a70fdf-3c81-4b0c-8081-40dc2ed66526",
+      "type": "+SpaceRestriction",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "61abfe1f-15b9-4d6a-8f25-215812fe4012",
+      "type": "+SpaceRestriction",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "632a1e4d-0746-4205-a92b-82c89565897d",
+      "type": "+SpaceRestriction",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "63d200f8-33f3-4597-83b5-b8ad9fe90c6e",
+      "type": "+SpaceRestriction",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "64b9623e-989c-40c8-8fc3-6c02c07a3980",
+      "type": "+SpaceRestriction",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "66137fdd-b56f-4877-9d5b-6b82a5a1537f",
+      "type": "+SpaceRestriction",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "663ef147-36b7-4c56-bc6a-16ed819657ca",
+      "type": "+SpaceRestriction",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "6652af31-b712-4745-943b-e3b094106d57",
+      "type": "+SpaceSurfaceObject",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "66bc5435-2b75-40f1-8d8e-19e69ee21126",
+      "type": "+SpaceRestriction",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "686ba79a-1420-4f9b-a093-492af9dddf9f",
+      "type": "+SpaceRestriction",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "692a6c63-b98b-446d-a58f-2e7f949d541a",
+      "type": "+SpaceSurfaceObject",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "693ef65e-5a55-42e4-bcb1-b1f39a3112b9",
+      "type": "+SpaceRestriction",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "6bb20b81-5299-4051-891f-1743ced76ed9",
+      "type": "+SpaceSurfaceObject",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "6c096c26-5bbc-43c9-bc26-a0b7e42e7942",
+      "type": "+SpaceSurfaceObject",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "6cb92ede-59a0-4a62-a377-c076232e8214",
+      "type": "+SpaceRestriction",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "6e077d62-997a-483d-81d7-393ef30eb623",
+      "type": "+SpaceRestriction",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "6e40c108-69c1-4ec2-92d1-20ff2dcdde7d",
+      "type": "+SpaceRestriction",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "6f31aa01-a255-43dd-ae68-fed29093213f",
+      "type": "+SpaceSurfaceObject",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "6f71b613-f729-4e67-895f-d36b13c4287d",
+      "type": "+SpaceSurfaceObject",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "738eb02c-d973-4af6-a30e-3eea3606ba6e",
+      "type": "+SpaceProtectedArea",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "73e78e5c-ae72-47b5-bef1-0aa2e17cebbd",
+      "type": "+SpaceSurfaceObject",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "74589612-3755-4ba4-b32f-ebfd5132a3e9",
+      "type": "+SpaceRestriction",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "7530f062-20b6-4726-af48-1b17a8d26ad3",
+      "type": "+SpaceSurfaceObject",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "76b89527-f5ca-44da-9c07-3d281e07d4e0",
+      "type": "+SpaceSurfaceObject",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "771d63ff-0afc-44ba-b200-7b9244669cdf",
+      "type": "+SpaceSurfaceObject",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "77499634-44ba-43f7-8cea-084add7b360e",
+      "type": "+SpaceRestriction",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "797d827d-3c09-4af6-9ecf-5894a98def48",
+      "type": "+SpaceSurfaceObject",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "79eba1a2-c5f3-425e-b447-1b019a52e4b1",
+      "type": "+SpaceSurfaceObject",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "7a32486c-7c46-4a1b-961d-a5cae369d5c6",
+      "type": "+SpaceRestriction",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "7fcf48f7-c725-4601-bd04-40ea2d5585a6",
+      "type": "+SpaceSurfaceObject",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "7fe68bd2-2fb4-4f2e-a8d7-6fabf459c219",
+      "type": "+SpaceSurfaceObject",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "807cfc5f-903b-4c64-87bb-3518e318a78e",
+      "type": "+SpaceSurfaceObject",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "80983733-3e40-46f1-bbb2-524af0a77024",
+      "type": "+SpaceRestriction",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "81a52ad0-433d-4cef-ac47-311881eaac7c",
+      "type": "+SpaceRestriction",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "82fc4bd0-2a93-4690-9130-43039755ed57",
+      "type": "+SpaceRestriction",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "8395589f-65f0-476e-b7ca-fe22a27c3aa4",
+      "type": "+SpaceSurfaceObject",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "8487e90e-79e7-407f-ae40-d0c5d848003e",
+      "type": "+SpaceSurfaceObject",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "8501da8c-db79-402b-b305-607a6e0fdb1d",
+      "type": "+SpaceRestriction",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "8521a71e-b2c8-45e0-ba2a-5ac81101c7dd",
+      "type": "+SpaceSurfaceObject",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "864443b3-0f1d-45c4-8ca6-1d14f719026f",
+      "type": "+SpaceSurfaceObject",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "865265b0-dd7a-4de4-845d-60c98474e4e6",
+      "type": "+SpaceRestriction",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "896b29f1-b395-4427-b716-892642611796",
+      "type": "+SpaceRestriction",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "8a78503c-493d-432b-9f25-d293b3a3a6f1",
+      "type": "+SpaceRestriction",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "8bc7844d-e833-4cbe-a154-829b4f48aea1",
+      "type": "+SpaceSurfaceObject",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "8cc00fb4-5682-4f05-b8fa-eef0e25cd06e",
+      "type": "+SpaceRestriction",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "8cd02c36-db39-4749-be8d-ce4185e7a2bc",
+      "type": "+SpaceSurfaceObject",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "8e077465-1125-4314-b2ba-c7b8041c49e2",
+      "type": "+SpaceProtectedArea",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "8ead2729-23d7-4872-b3ac-f77c157f05ee",
+      "type": "+SpaceRestriction",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "8f674f4e-66e3-4fe8-9ce0-a565feb01712",
+      "type": "+SpaceSurfaceObject",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "8fe3f57b-db2b-4b3d-8804-abcde794e995",
+      "type": "+SpaceSurfaceObject",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "90c0091a-f3e8-412d-a404-b817a899a1ef",
+      "type": "+SpaceRestriction",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "91910c50-ba22-442f-b5ac-d34e56107384",
+      "type": "+SpaceSurfaceObject",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "92016c3d-5852-4b99-9b06-bbed3e2a8d79",
+      "type": "+SpaceSurfaceObject",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "92bbe3b0-c280-4674-9525-6dcdf4de9f46",
+      "type": "+SpaceRestriction",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "930bbca1-4ac8-414a-bd1a-bc7ada854347",
+      "type": "+SpaceRestriction",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "941b514e-a2bc-4cea-91a9-fd24aa1f5d09",
+      "type": "+SpaceSurfaceObject",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "95b47e8f-bdf1-402e-b3eb-c577c2b18bf6",
+      "type": "+SpaceRestriction",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "97019c9d-6cad-47d2-a1fd-4e2466b17050",
+      "type": "+SpaceSurfaceObject",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "975526d2-42e7-43f4-a59e-58de46eb86fa",
+      "type": "+SpaceRestriction",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "996713a9-ea09-4557-b08b-d9162285b5a2",
+      "type": "+SpaceRestriction",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "9aec640c-7252-4818-b2b0-07c7e0fd1a3b",
+      "type": "+SpaceSurfaceObject",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "9d022930-a3c8-4370-947d-e4aaf619f03a",
+      "type": "+SpaceRestriction",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "9e754b05-20bc-4939-b3be-1cda334b89af",
+      "type": "+SpaceSurfaceObject",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "9e7840b4-f90d-4f61-ba14-40fa498bbf7a",
+      "type": "+SpaceRestriction",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "a1ab1c87-1eb9-46d9-86e7-30521d759cbc",
+      "type": "+SpaceRestriction",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "a2a18cbe-5e8a-4149-8903-ac4c88ecfff4",
+      "type": "+SpaceSurfaceObject",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "a2bb979b-52c8-42fa-9139-d37483722ead",
+      "type": "+SpaceSurfaceObject",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "a451afad-d124-4313-ab77-8627b18b2761",
+      "type": "+SpaceRestriction",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "a4ac1623-7e69-468a-a980-baceb51275ae",
+      "type": "+SpaceSurfaceObject",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "a4df4080-063a-4228-aedb-c57a7469205f",
+      "type": "+SpaceSurfaceObject",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "a9111ec1-9112-4a2c-8301-a4975a0e9538",
+      "type": "+SpaceSurfaceObject",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "a9ad1230-7569-48d2-8c4c-0fc55c6dcd6d",
+      "type": "+SpaceProtectedArea",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "aab32b85-4b45-417d-8024-456f38935744",
+      "type": "+SpaceSurfaceObject",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "aae82f13-1ee2-481b-bab3-846a8fdca985",
+      "type": "+SpaceSurfaceObject",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "ab4005fc-a141-4967-b0ca-da8a746766c6",
+      "type": "+SpaceRestriction",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "abbd4ed0-1242-4f4d-a8c8-cdc8f99d7240",
+      "type": "+SpaceSurfaceObject",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "abfdc52a-85c2-4de4-878a-0cea55a0584f",
+      "type": "+SpaceRestriction",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "ac2beb50-271a-4f04-9c3b-4cdf37cb14b9",
+      "type": "+SpaceRestriction",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "ad434407-0fc3-4dcd-8b46-2a422f900fc1",
+      "type": "+SpaceRestriction",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "adce8ad3-b905-4ca9-9710-bc78a584a313",
+      "type": "+SpaceSurfaceObject",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "b0da0a7e-86a4-440e-bb26-6ffb5a695ee6",
+      "type": "+SpaceProtectedArea",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "b2c7c799-2973-4ced-b0e5-1d5435f2f225",
+      "type": "+SpaceRestriction",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "b48b221d-fa25-4a0e-abf9-5f2e4e31ab41",
+      "type": "+SpaceRestriction",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "b6130206-3977-45b6-a911-d44f1f5e15e8",
+      "type": "+SpaceRestriction",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "b79f2197-fea6-4506-b8df-a75386b6f922",
+      "type": "+SpaceRestriction",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "b885c655-84aa-4bdc-92ef-7b2b7fc1282a",
+      "type": "+SpaceRestriction",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "b98e972e-b60b-4004-8dbc-a3c294348961",
+      "type": "+SpaceProtectedArea",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "b9d418a1-bc6c-46de-aa10-cff5886d43ed",
+      "type": "+SpaceSurfaceObject",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "bb411bdf-989d-4ad8-94f0-c7c0b7d446b1",
+      "type": "+SpaceSurfaceObject",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "bba2ac4a-ef20-4479-b3c3-c40a24870f12",
+      "type": "+SpaceSurfaceObject",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "bc09530f-f9aa-4a2a-8383-47a84e4089f4",
+      "type": "+SpaceRestriction",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "bc39c481-d392-4ea8-8337-5eb9e79c895d",
+      "type": "+SpaceRestriction",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "bd213309-e741-493b-aacb-10eabddb206e",
+      "type": "+SpaceSurfaceObject",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "bdf9ccaf-bbaa-4f6f-8751-6260d3cb0475",
+      "type": "+SpaceSurfaceObject",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "bf5b3bea-17fd-428e-897f-59ad47d47f7f",
+      "type": "+SpaceRestriction",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "c08ed068-5c9f-4287-ae8b-084639fabde0",
+      "type": "+SpaceRestriction",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "c2b66fca-5cdd-4bbd-bb12-ffc4de0039d0",
+      "type": "+SpaceRestriction",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "c403c49b-6c60-4b31-b370-1f81863c75a2",
+      "type": "+SpaceSurfaceObject",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "c5d89a08-a996-4166-ad6f-ded6b3cff83a",
+      "type": "+SpaceRestriction",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "c9316d64-1aed-49eb-9125-24894c701405",
+      "type": "+SpaceSurfaceObject",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "cb8b2e15-8c4f-4398-bb37-731fd851a220",
+      "type": "+SpaceRestriction",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "cc56271c-1b38-4619-a6b6-f44e8edb33b9",
+      "type": "+SpaceRestriction",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "cc6a2de8-447a-460d-9b8b-48b2b7bf5292",
+      "type": "+SpaceSurfaceObject",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "ccb1155b-b973-407e-8d14-e3da2f73cbd7",
+      "type": "+SpaceRestriction",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "cd624d78-9764-4338-9532-2980c1eeb498",
+      "type": "+SpaceRestriction",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "cdce5cc4-2b51-4275-b2d0-a62f0a0d4110",
+      "type": "+SpaceSurfaceObject",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "ce867928-3c48-48a8-86f2-6b90b340dccd",
+      "type": "+SpaceSurfaceObject",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "cfe1f320-a3b4-48df-aef3-92e8c0cca87a",
+      "type": "+SpaceSurfaceObject",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "cfe3d1e2-3fb5-4787-8ae1-b8e76b78762c",
+      "type": "+SpaceRestriction",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "cff11cab-ba39-4d23-94f3-48ed94b95682",
+      "type": "+SpaceRestriction",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "d02a961c-265e-43c6-8ed3-6233376701e3",
+      "type": "+SpaceRestriction",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "d21fc79b-0f1c-48d5-9972-959042ca4438",
+      "type": "+SpaceRestriction",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "d2fa58f4-07a3-4b2f-b56d-4a6560fb51eb",
+      "type": "+SpaceSurfaceObject",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "d307c7b5-7bc3-437a-9109-2445d99b1c55",
+      "type": "+SpaceSurfaceObject",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "d69dc766-007d-4826-a399-7333bfa92edd",
+      "type": "+SpaceRestriction",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "d6ae1e17-6b36-4082-986d-93640be21b15",
+      "type": "+SpaceProtectedArea",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "d7b5af79-6118-40f5-a7c8-3325bb68fb18",
+      "type": "+SpaceRestriction",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "d8577549-8994-4bb4-a4f0-73da0ca4116a",
+      "type": "+SpaceSurfaceObject",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "d8713be3-8b74-4536-a9a6-aa8446f0dec5",
+      "type": "+SpaceRestriction",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "d871d355-43e9-463e-9cc1-c915f601b4ad",
+      "type": "+SpaceRestriction",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "d908828c-d579-4065-a3b8-cf45e53863d0",
+      "type": "+SpaceSurfaceObject",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "d92c78e4-bac8-441d-a5ca-4593b3d209fd",
+      "type": "+SpaceSurfaceObject",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "d9b47cae-c09d-4660-8c23-c7c7ed779c6c",
+      "type": "+SpaceSurfaceObject",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "da658cc8-f2ff-4696-ac07-1794ac73844d",
+      "type": "+SpaceRestriction",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "dab8bb44-ca1a-4c81-8048-8cd31cd8e998",
+      "type": "+SpaceRestriction",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "dae9224b-d700-4614-9349-e90b3f93f716",
+      "type": "+SpaceRestriction",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "db512aea-3ed3-4a7b-882e-53adbf2d680d",
+      "type": "+SpaceSurfaceObject",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "dbf16ceb-5225-48c0-a33c-24be0af9bc97",
+      "type": "+SpaceRestriction",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "dc1085ba-6237-43a7-b785-847359c9ac22",
+      "type": "+SpaceRestriction",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "dd292ef9-febd-4d0b-831d-4f268a31c18a",
+      "type": "+SpaceSurfaceObject",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "ddae2c9b-ed49-43d4-a617-8bae025e0889",
+      "type": "+SpaceRestriction",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "ded1fc97-517d-4f2e-9d1d-74acbbb15e21",
+      "type": "+SpaceSurfaceObject",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "df0a4d28-7a6a-4aba-8969-d9e020be0f6e",
+      "type": "+SpaceSurfaceObject",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "e1e3ccc4-8571-4569-acd2-daf68c8a0f0b",
+      "type": "+SpaceRestriction",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "e2fec2a9-05f3-48dd-8fcd-93044240dcb0",
+      "type": "+SpaceSurfaceObject",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "e3035921-e865-48c7-afd2-6b836151232a",
+      "type": "+SpaceSurfaceObject",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "e38098bd-08d8-4104-8753-1d17f2139179",
+      "type": "+SpaceSurfaceObject",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "e3b0be1b-5eb3-4988-be86-ffb3615d22c8",
+      "type": "+SpaceSurfaceObject",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "e3efb589-cbd0-471a-a53f-ecf9a27d5e68",
+      "type": "+SpaceSurfaceObject",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "e3ff0381-a248-4f48-8693-35d22bcf41f2",
+      "type": "+SpaceRestriction",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "e5819312-efd8-4410-8ce4-57113afaf05b",
+      "type": "+SpaceSurfaceObject",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "e59e1be9-ab53-416e-911f-973675d1a297",
+      "type": "+SpaceSurfaceObject",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "e5cd7ea0-2c94-4853-951f-6da39fce0a12",
+      "type": "+SpaceSurfaceObject",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "e7e9329b-382d-408c-9cb6-a6cdd7d57fb6",
+      "type": "+SpaceRestriction",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "e7ea1e31-4944-4b19-85b5-26b4b44a478c",
+      "type": "+SpaceProtectedArea",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "e83105df-4a48-44f1-991f-15f0550e6a35",
+      "type": "+SpaceSurfaceObject",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "e8db3a92-5e6f-4aa9-897f-c15ce085eebe",
+      "type": "+SpaceRestriction",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "e9093435-d4a6-41e2-975f-7b0f57e3061d",
+      "type": "+SpaceRestriction",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "eae02315-44ae-4995-a1fd-37a9c7675cd0",
+      "type": "+SpaceRestriction",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "eb4ad032-9084-4e32-a0c8-84e137a355a2",
+      "type": "+SpaceSurfaceObject",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "ecb303f0-1b54-4e33-b494-1f784cd91abf",
+      "type": "+SpaceSurfaceObject",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "ee9aac10-969e-4c8c-9f8e-807b48852d8b",
+      "type": "+SpaceRestriction",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "efb4b6b7-350e-41ef-96ff-ba4d1075c73a",
+      "type": "+SpaceSurfaceObject",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "f0236b38-6c7f-4149-a76a-4f31f45e281d",
+      "type": "+SpaceRestriction",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "f20c84e5-64f1-46c6-ae0f-e7bf328bd806",
+      "type": "+SpaceRestriction",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "f39f7dad-f848-42de-a110-b268f1fe8340",
+      "type": "+SpaceSurfaceObject",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "f49444de-e13c-4df9-912d-de844526ab2a",
+      "type": "+SpaceRestriction",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "f4ed1209-d663-463c-86a1-f9a6f4926009",
+      "type": "+SpaceSurfaceObject",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "f565f665-8d13-4e3c-b77b-400f6ee1ccd3",
+      "type": "+SpaceProtectedArea",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "f6036980-a67d-4988-906c-d26e4739af61",
+      "type": "+SpaceSurfaceObject",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "f7ad4aa1-a91e-4dfc-a3e6-609ebeedc52e",
+      "type": "+SpaceSurfaceObject",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "f7d05462-7015-4116-93c3-667301be45d0",
+      "type": "+SpaceRestriction",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "f91b543f-cc38-4531-8f2c-8d81f2d20486",
+      "type": "+SpaceSurfaceObject",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "f975f16d-1658-468c-8101-b0f18d3f9e66",
+      "type": "+SpaceSurfaceObject",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "fa154af5-29e5-40c5-af05-f5cf8b1ecc4d",
+      "type": "+SpaceRestriction",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "fa6bbc31-3e7b-417f-88fe-c19d88b0e0e7",
+      "type": "+SpaceSurfaceObject",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "fafb0c7c-0439-412f-9983-f475a2fe5466",
+      "type": "+SpaceRestriction",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "fb8f8a28-199c-4156-9499-8855c75ea139",
+      "type": "+SpaceSurfaceObject",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "fc32d20c-5f4c-4466-bb86-c07dd8582b1d",
+      "type": "+SpaceRestriction",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "fc682341-5b24-4bd9-a406-fc6315619acd",
+      "type": "+SpaceSurfaceObject",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "fcbfa53c-c854-4081-ba54-77997860e3e4",
+      "type": "+SpaceRestriction",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "fe0c5b96-a6e6-466c-9f6c-600123c43f20",
+      "type": "+SpaceRestriction",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "ff3acbb6-4402-45cd-a0c5-26424b84c31c",
+      "type": "+SpaceRestriction",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "ff51a005-4fb7-43cb-931b-bab7e51e59d2",
+      "type": "+SpaceSurfaceObject",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "ff696de6-12ef-4b9b-ac79-d6abfe95dafa",
+      "type": "+SpaceRestriction",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "ffe1a22b-a98b-43f2-8ffa-5971e36bbdf5",
+      "type": "+SpaceSurfaceObject",
+      "validity": true
+    }
+  ],
+  "features_overview": [
+    {
+      "total": 13,
+      "type": "+SpaceProtectedArea",
+      "valid": 13
+    },
+    {
+      "total": 147,
+      "type": "+SpaceRestriction",
+      "valid": 147
+    },
+    {
+      "total": 134,
+      "type": "+SpaceSurfaceObject",
+      "valid": 134
+    }
+  ],
+  "input_file": "E:\\Belgeler\\Projeler\\3D_Modelling_Space\\SPATIAL_DATA\\DENEME2\\EK_DENEME\\New_Validated\\protected_areas.json",
+  "input_file_type": "CityJSON",
+  "parameters": {
+    "overlap_tol": -1.0,
+    "planarity_d2p_tol": 0.01,
+    "planarity_n_tol": 20.0,
+    "snap_tol": 0.001
+  },
+  "primitives_overview": [
+    {
+      "total": 160,
+      "type": "Solid",
+      "valid": 160
+    },
+    {
+      "total": 134,
+      "type": "MultiSolid",
+      "valid": 134
+    }
+  ],
+  "time": "2026-06-02T15:28:14 (Mountain Daylight Time)",
+  "type": "val3dity_report",
+  "val3dity_version": "2.6.0b0",
+  "validity": true
+}

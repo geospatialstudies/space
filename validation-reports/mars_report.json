@@ -1,0 +1,65 @@
+{
+  "all_errors": [],
+  "dataset_errors": [],
+  "features": [
+    {
+      "errors": [],
+      "id": "14300",
+      "type": "+SpaceCrater",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "74d5be0e-f9de-44f4-b0f0-ecb2d6365e50",
+      "type": "+SpaceRestriction",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "bbf7f15a-ca63-46a7-9a54-b41ce727d4ad",
+      "type": "+SpaceScientificEvidence",
+      "validity": true
+    }
+  ],
+  "features_overview": [
+    {
+      "total": 1,
+      "type": "+SpaceCrater",
+      "valid": 1
+    },
+    {
+      "total": 1,
+      "type": "+SpaceRestriction",
+      "valid": 1
+    },
+    {
+      "total": 1,
+      "type": "+SpaceScientificEvidence",
+      "valid": 1
+    }
+  ],
+  "input_file": "E:\\Belgeler\\Projeler\\3D_Modelling_Space\\SPATIAL_DATA\\DENEME2\\EK_DENEME\\New_Validated\\mars.json",
+  "input_file_type": "CityJSON",
+  "parameters": {
+    "overlap_tol": -1.0,
+    "planarity_d2p_tol": 0.01,
+    "planarity_n_tol": 20.0,
+    "snap_tol": 0.001
+  },
+  "primitives_overview": [
+    {
+      "total": 2,
+      "type": "Solid",
+      "valid": 2
+    },
+    {
+      "total": 1,
+      "type": "CompositeSurface",
+      "valid": 1
+    }
+  ],
+  "time": "2026-06-02T15:30:36 (Mountain Daylight Time)",
+  "type": "val3dity_report",
+  "val3dity_version": "2.6.0b0",
+  "validity": true
+}
