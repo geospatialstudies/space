@@ -4,16 +4,13 @@
     "description": "Extension for 3D modeling of interests on space exploration",
     "url": "https://raw.githubusercontent.com/geospatialstudies/space/refs/heads/main/space.ext.json",
     "version": "1.0",
-    "extraAttributes": {
-    },
+    "extraAttributes": {},
     "versionCityJSON": "2.0",
     "extraCityObjects": {
         "+SpaceSurfaceObject": {
-            "allOf": [
-                {
+            "allOf": [{
                     "$ref": "cityobjects.schema.json#/_AbstractCityObject"
-                },
-                {
+                }, {
                     "properties": {
                         "type": {
                             "enum": [
@@ -35,29 +32,26 @@
                                 },
                                 "surfaceObjectID": {
                                     "type": "string"
+                                },
+                                "contentType": {
+                                    "type": "string"
                                 }
                             }
                         },
                         "geometry": {
                             "type": "array",
                             "items": {
-                                "oneOf": [
-                                    {
+                                "oneOf": [{
                                         "$ref": "geomprimitives.schema.json#/MultiLineString"
-                                    },
-                                    {
+                                    }, {
                                         "$ref": "geomprimitives.schema.json#/MultiSurface"
-                                    },
-                                    {
+                                    }, {
                                         "$ref": "geomprimitives.schema.json#/CompositeSurface"
-                                    },
-                                    {
+                                    }, {
                                         "$ref": "geomprimitives.schema.json#/Solid"
-                                    },
-                                    {
+                                    }, {
                                         "$ref": "geomprimitives.schema.json#/CompositeSolid"
-                                    },
-                                    {
+                                    }, {
                                         "$ref": "geomprimitives.schema.json#/MultiSolid"
                                     }
                                 ]
@@ -72,11 +66,9 @@
             ]
         },
         "+SpacePlanUnit": {
-            "allOf": [
-                {
+            "allOf": [{
                     "$ref": "cityobjects.schema.json#/_AbstractCityObject"
-                },
-                {
+                }, {
                     "properties": {
                         "type": {
                             "enum": [
@@ -103,23 +95,17 @@
                         "geometry": {
                             "type": "array",
                             "items": {
-                                "oneOf": [
-                                    {
+                                "oneOf": [{
                                         "$ref": "geomprimitives.schema.json#/MultiLineString"
-                                    },
-                                    {
+                                    }, {
                                         "$ref": "geomprimitives.schema.json#/MultiSurface"
-                                    },
-                                    {
+                                    }, {
                                         "$ref": "geomprimitives.schema.json#/CompositeSurface"
-                                    },
-                                    {
+                                    }, {
                                         "$ref": "geomprimitives.schema.json#/Solid"
-                                    },
-                                    {
+                                    }, {
                                         "$ref": "geomprimitives.schema.json#/CompositeSolid"
-                                    },
-                                    {
+                                    }, {
                                         "$ref": "geomprimitives.schema.json#/MultiSolid"
                                     }
                                 ]
@@ -134,11 +120,9 @@
             ]
         },
         "+SpaceBuildingUnit": {
-            "allOf": [
-                {
+            "allOf": [{
                     "$ref": "cityobjects.schema.json#/_AbstractCityObject"
-                },
-                {
+                }, {
                     "properties": {
                         "type": {
                             "enum": [
@@ -162,23 +146,17 @@
                         "geometry": {
                             "type": "array",
                             "items": {
-                                "oneOf": [
-                                    {
+                                "oneOf": [{
                                         "$ref": "geomprimitives.schema.json#/MultiLineString"
-                                    },
-                                    {
+                                    }, {
                                         "$ref": "geomprimitives.schema.json#/MultiSurface"
-                                    },
-                                    {
+                                    }, {
                                         "$ref": "geomprimitives.schema.json#/CompositeSurface"
-                                    },
-                                    {
+                                    }, {
                                         "$ref": "geomprimitives.schema.json#/Solid"
-                                    },
-                                    {
+                                    }, {
                                         "$ref": "geomprimitives.schema.json#/CompositeSolid"
-                                    },
-                                    {
+                                    }, {
                                         "$ref": "geomprimitives.schema.json#/MultiSolid"
                                     }
                                 ]
@@ -194,11 +172,9 @@
             ]
         },
         "+SpaceLegal": {
-            "allOf": [
-                {
+            "allOf": [{
                     "$ref": "cityobjects.schema.json#/_AbstractCityObject"
-                },
-                {
+                }, {
                     "properties": {
                         "type": {
                             "enum": [
@@ -226,23 +202,17 @@
                         "geometry": {
                             "type": "array",
                             "items": {
-                                "oneOf": [
-                                    {
+                                "oneOf": [{
                                         "$ref": "geomprimitives.schema.json#/MultiLineString"
-                                    },
-                                    {
+                                    }, {
                                         "$ref": "geomprimitives.schema.json#/MultiSurface"
-                                    },
-                                    {
+                                    }, {
                                         "$ref": "geomprimitives.schema.json#/CompositeSurface"
-                                    },
-                                    {
+                                    }, {
                                         "$ref": "geomprimitives.schema.json#/Solid"
-                                    },
-                                    {
+                                    }, {
                                         "$ref": "geomprimitives.schema.json#/CompositeSolid"
-                                    },
-                                    {
+                                    }, {
                                         "$ref": "geomprimitives.schema.json#/MultiSolid"
                                     }
                                 ]
@@ -257,11 +227,9 @@
             ]
         },
         "+SpaceBuilding": {
-            "allOf": [
-                {
+            "allOf": [{
                     "$ref": "cityobjects.schema.json#/_AbstractBuilding"
-                },
-                {
+                }, {
                     "properties": {
                         "type": {
                             "enum": [
@@ -295,11 +263,9 @@
             ]
         },
         "+SpaceCommonArea": {
-            "allOf": [
-                {
+            "allOf": [{
                     "$ref": "#/extraCityObjects/+SpaceLegal"
-                },
-                {
+                }, {
                     "properties": {
                         "type": {
                             "enum": [
@@ -321,11 +287,9 @@
             ]
         },
         "+SpaceRestriction": {
-            "allOf": [
-                {
+            "allOf": [{
                     "$ref": "#/extraCityObjects/+SpaceLegal"
-                },
-                {
+                }, {
                     "properties": {
                         "type": {
                             "enum": [
@@ -367,11 +331,9 @@
             ]
         },
         "+SpaceProtectedArea": {
-            "allOf": [
-                {
+            "allOf": [{
                     "$ref": "#/extraCityObjects/+SpaceLegal"
-                },
-                {
+                }, {
                     "properties": {
                         "type": {
                             "enum": [
@@ -393,11 +355,9 @@
             ]
         },
         "+SpaceScientificEvidence": {
-            "allOf": [
-                {
+            "allOf": [{
                     "$ref": "#/extraCityObjects/+SpaceLegal"
-                },
-                {
+                }, {
                     "properties": {
                         "type": {
                             "enum": [
@@ -426,11 +386,9 @@
             ]
         },
         "+SpaceCrater": {
-            "allOf": [
-                {
+            "allOf": [{
                     "$ref": "#/extraCityObjects/+SpaceSurfaceObject"
-                },
-                {
+                }, {
                     "properties": {
                         "type": {
                             "enum": [
@@ -479,8 +437,6 @@
             ]
         }
     },
-    "extraRootProperties": {
-    },
-    "extraSemanticSurfaces": {
-    }
+    "extraRootProperties": {},
+    "extraSemanticSurfaces": {}
 }
