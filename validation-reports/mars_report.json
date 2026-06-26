@@ -38,7 +38,7 @@
       "valid": 1
     }
   ],
-  "input_file": "E:\\Belgeler\\Projeler\\3D_Modelling_Space\\SPATIAL_DATA\\DENEME2\\EK_DENEME\\New_Validated\\mars.json",
+  "input_file": "C:\\Users\\guler\\Documents\\mars.json",
   "input_file_type": "CityJSON",
   "parameters": {
     "overlap_tol": -1.0,
@@ -58,7 +58,7 @@
       "valid": 1
     }
   ],
-  "time": "2026-06-02T15:30:36 (Mountain Daylight Time)",
+  "time": "2026-06-11T21:23:35 (Mountain Daylight Time)",
   "type": "val3dity_report",
   "val3dity_version": "2.6.0b0",
   "validity": true

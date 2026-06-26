@@ -4,146 +4,104 @@
   "features": [
     {
       "errors": [],
-      "id": "007debf4-8253-4497-932d-110b1dcecd50",
+      "id": "011b8169-180c-4402-bba0-783d9665923c",
+      "type": "+SpaceLegal",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "0133b2ff-497a-4876-af87-3c0321e5ed92",
       "type": "+SpacePlanUnit",
       "validity": true
     },
     {
       "errors": [],
-      "id": "00895111-88b1-4c7d-b53e-aaf642b13b04",
-      "type": "+SpaceLegal",
-      "validity": true
-    },
-    {
-      "errors": [],
-      "id": "012fa985-00b2-4f3e-9ec5-61965c78c4c0",
+      "id": "0187602f-52f7-470c-a8d3-e994a07e6e3b",
       "type": "+SpacePlanUnit",
       "validity": true
     },
     {
       "errors": [],
-      "id": "01KT4QEDKRPRWNFS15A36GMDP4",
+      "id": "01f77d47-0df0-48ba-ac34-d617e95676b1",
       "type": "+SpaceLegal",
       "validity": true
     },
     {
       "errors": [],
-      "id": "024e3047-09ec-48b9-bd8f-8d4a8d6bb66b",
-      "type": "+SpaceLegal",
-      "validity": true
-    },
-    {
-      "errors": [],
-      "id": "0269c52d-0202-4842-97ac-e6da160125e4",
-      "type": "+SpaceLegal",
-      "validity": true
-    },
-    {
-      "errors": [],
-      "id": "02a4eeb9-443e-4a69-b79b-72aeac54a68e",
-      "type": "+SpaceLegal",
-      "validity": true
-    },
-    {
-      "errors": [],
-      "id": "03689c04-568e-4798-8d1e-26f4230c94c9",
+      "id": "01fdc682-939a-48de-b5f5-5a5f9706161c",
       "type": "+SpacePlanUnit",
       "validity": true
     },
     {
       "errors": [],
-      "id": "03fcd5c9-3fc6-428c-9c8f-45028765db82",
+      "id": "020074ec-5745-4c70-9672-45a59dfcc3a1",
       "type": "+SpaceLegal",
       "validity": true
     },
     {
       "errors": [],
-      "id": "04276292-f075-40aa-b58e-fe70fd41b863",
+      "id": "02092d03-e5ed-4607-b1df-6cff9024c9e4",
       "type": "+SpacePlanUnit",
       "validity": true
     },
     {
       "errors": [],
-      "id": "04556a9c-5af6-46ff-8394-5ff96ddc4dde",
+      "id": "05418923-71df-4dd2-acfd-f438c15292a9",
+      "type": "+SpaceLegal",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "05a18ed8-53ae-4c95-89cc-309129e8d3ba",
       "type": "+SpacePlanUnit",
       "validity": true
     },
     {
       "errors": [],
-      "id": "052790cc-6fa4-4ba1-bf9b-b7c9c71c0d25",
-      "type": "+SpaceLegal",
-      "validity": true
-    },
-    {
-      "errors": [],
-      "id": "054f01f5-966e-450e-bd76-ddb326a947f9",
-      "type": "+SpaceLegal",
-      "validity": true
-    },
-    {
-      "errors": [],
-      "id": "0694d463-1d99-4672-83bd-0ddeb8c395f1",
+      "id": "0615589f-eec2-4ce1-8018-c849c49493cf",
       "type": "+SpacePlanUnit",
       "validity": true
     },
     {
       "errors": [],
-      "id": "06d8fa3d-13ab-404d-bf03-1effea7ea961",
-      "type": "+SpaceLegal",
-      "validity": true
-    },
-    {
-      "errors": [],
-      "id": "076e6e62-0d8c-4ca5-82e4-b92032ed65b4",
-      "type": "+SpaceLegal",
-      "validity": true
-    },
-    {
-      "errors": [],
-      "id": "07c7f896-60aa-4974-b090-2ca5f041b649",
-      "type": "+SpaceLegal",
-      "validity": true
-    },
-    {
-      "errors": [],
-      "id": "08338688-15bf-4452-b1c5-2eb059cdd44a",
-      "type": "+SpaceLegal",
-      "validity": true
-    },
-    {
-      "errors": [],
-      "id": "0894bdd4-9844-4398-adee-773b75282525",
+      "id": "0643c18f-d152-46a8-b0bf-ced993c1622b",
       "type": "+SpacePlanUnit",
       "validity": true
     },
     {
       "errors": [],
-      "id": "08e7a681-eeb1-43c3-8cae-a357f73f5801",
+      "id": "06606ff7-1a59-4317-b553-2257d0ee21e9",
       "type": "+SpacePlanUnit",
       "validity": true
     },
     {
       "errors": [],
-      "id": "08f49715-575e-478b-b219-dca33937a67b",
+      "id": "06e69883-d3c3-4e65-830d-0b74c3ba2d9c",
       "type": "+SpaceLegal",
       "validity": true
     },
     {
       "errors": [],
-      "id": "09437ee7-64ed-4200-8176-a8ced1a6ed5e",
+      "id": "0771ff3d-2163-4e56-bd39-40886956c1e6",
       "type": "+SpacePlanUnit",
       "validity": true
     },
     {
       "errors": [],
-      "id": "0976225d-6a48-43a7-bf09-9c478f85df64",
+      "id": "08e9bf76-d2a3-4157-a3f4-1bd6ce1621d7",
+      "type": "+SpaceLegal",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "093f85d9-dbc5-4f2f-8ea2-d1a238d073b9",
       "type": "+SpacePlanUnit",
       "validity": true
     },
     {
       "errors": [],
-      "id": "09e789c2-ec1d-4b7d-8992-1168cab0d3ff",
-      "type": "+SpaceScientificEvidence",
+      "id": "09598ad2-8a2c-42d6-af0b-356e2427e506",
+      "type": "+SpaceLegal",
       "validity": true
     },
     {
@@ -232,37 +190,31 @@
     },
     {
       "errors": [],
-      "id": "0a7898d7-23b7-4e33-8c2a-1a8e1b41fec1",
+      "id": "0ae446e5-69b1-47c4-ab6d-c309dd35a5a9",
       "type": "+SpacePlanUnit",
       "validity": true
     },
     {
       "errors": [],
-      "id": "0a7dd86b-3f29-49f7-9789-70dbb68432e0",
-      "type": "+SpacePlanUnit",
-      "validity": true
-    },
-    {
-      "errors": [],
-      "id": "0cbbf0db-a054-4553-a3f2-2b9ab7c2a2ce",
-      "type": "+SpacePlanUnit",
-      "validity": true
-    },
-    {
-      "errors": [],
-      "id": "0cea6f6c-ec3a-483c-9875-712442218833",
+      "id": "0b0d4742-0287-47a0-9f32-44341f6edcfc",
       "type": "+SpaceLegal",
       "validity": true
     },
     {
       "errors": [],
-      "id": "0d024715-074b-4cca-8435-c22024d8c087",
+      "id": "0e591542-15d9-4039-a0b1-d5190a95d2fc",
       "type": "+SpaceLegal",
       "validity": true
     },
     {
       "errors": [],
-      "id": "0e07695d-95a2-4722-9363-cbafbd57a2ea",
+      "id": "0f8e57d2-8849-4c1d-9d8d-b38703359d01",
+      "type": "+SpacePlanUnit",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "0f95f63f-2934-4f71-8ae5-d917678542e3",
       "type": "+SpaceLegal",
       "validity": true
     },
@@ -274,8 +226,20 @@
     },
     {
       "errors": [],
+      "id": "1097cac0-77ba-4e9d-a8c7-bb54bc01e967",
+      "type": "+SpaceLegal",
+      "validity": true
+    },
+    {
+      "errors": [],
       "id": "1098684",
       "type": "+SpaceCrater",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "10fb8cad-1792-4d6a-a827-511e323b4588",
+      "type": "+SpaceLegal",
       "validity": true
     },
     {
@@ -292,391 +256,337 @@
     },
     {
       "errors": [],
-      "id": "110408f4-e2ed-4f5c-9226-9e5b3fff5e54",
+      "id": "115dec21-ba98-48ef-994b-87414fcb0a8b",
       "type": "+SpaceLegal",
       "validity": true
     },
     {
       "errors": [],
-      "id": "11842a7d-2d45-4fc3-9941-eb5c7fd13400",
-      "type": "+SpaceLegal",
-      "validity": true
-    },
-    {
-      "errors": [],
-      "id": "1215dda1-4ec0-4ccd-b08f-42a63c9f4fec",
+      "id": "11940c7c-efe2-43f3-84de-00d071cc5ff7",
       "type": "+SpacePlanUnit",
       "validity": true
     },
     {
       "errors": [],
-      "id": "1263df22-a4f7-418e-b3d4-aba0c07c9089",
-      "type": "+SpaceLegal",
-      "validity": true
-    },
-    {
-      "errors": [],
-      "id": "131e780a-8884-4ac1-90e6-9e14745e92dc",
-      "type": "+SpaceLegal",
-      "validity": true
-    },
-    {
-      "errors": [],
-      "id": "13ca5735-81a5-4506-b723-cb70591b07ac",
+      "id": "11d60252-2ed3-42d0-9715-0760192da554",
       "type": "+SpacePlanUnit",
       "validity": true
     },
     {
       "errors": [],
-      "id": "14240202-642c-467d-8513-0a70214a7931",
+      "id": "11fe7f98-3f71-47e2-bfd4-bc47abf4896b",
       "type": "+SpacePlanUnit",
       "validity": true
     },
     {
       "errors": [],
-      "id": "143d6e6f-1896-4ea5-8b62-b58a7dad779b",
+      "id": "122b0d78-7990-4ad3-911c-3906eeb219cf",
       "type": "+SpacePlanUnit",
       "validity": true
     },
     {
       "errors": [],
-      "id": "1493b11d-ca89-4ebe-b284-3b8a2f3b59d7",
-      "type": "+SpacePlanUnit",
-      "validity": true
-    },
-    {
-      "errors": [],
-      "id": "14ac8e2a-1368-4c25-b966-1e2e192f913d",
-      "type": "+SpacePlanUnit",
-      "validity": true
-    },
-    {
-      "errors": [],
-      "id": "14b103d8-e4e1-4131-9c7f-81afb4f019b0",
-      "type": "+SpacePlanUnit",
-      "validity": true
-    },
-    {
-      "errors": [],
-      "id": "14d8370d-1aef-434d-869f-9853afeaebe2",
-      "type": "+SpaceLegal",
-      "validity": true
-    },
-    {
-      "errors": [],
-      "id": "150d9576-cee0-4479-a0eb-d532361203b0",
-      "type": "+SpaceLegal",
-      "validity": true
-    },
-    {
-      "errors": [],
-      "id": "1532f14b-ceea-4c52-b7da-c09a3d49cb9d",
-      "type": "+SpaceLegal",
-      "validity": true
-    },
-    {
-      "errors": [],
-      "id": "16ec5ed1-fcdc-4eb2-af6b-bf11b747136d",
-      "type": "+SpaceLegal",
-      "validity": true
-    },
-    {
-      "errors": [],
-      "id": "172d0b88-3f75-4ec7-b81c-9494d0d66338",
-      "type": "+SpacePlanUnit",
-      "validity": true
-    },
-    {
-      "errors": [],
-      "id": "1756f2d6-a36a-4390-95ff-b546797692b0",
-      "type": "+SpaceLegal",
-      "validity": true
-    },
-    {
-      "errors": [],
-      "id": "175ee77d-874d-42bb-a380-8baed5e0802b",
-      "type": "+SpaceLegal",
-      "validity": true
-    },
-    {
-      "errors": [],
-      "id": "175f512e-d616-4444-b2c2-cfb7d750b837",
-      "type": "+SpaceLegal",
-      "validity": true
-    },
-    {
-      "errors": [],
-      "id": "17928310-bb81-468a-8ebc-d1de1502d60d",
-      "type": "+SpacePlanUnit",
-      "validity": true
-    },
-    {
-      "errors": [],
-      "id": "17b3b8aa-f519-4aa0-89be-f4fd24498210",
-      "type": "+SpacePlanUnit",
-      "validity": true
-    },
-    {
-      "errors": [],
-      "id": "17ef5f00-9827-49a2-a633-c28b57fe7834",
-      "type": "+SpaceLegal",
-      "validity": true
-    },
-    {
-      "errors": [],
-      "id": "1872f312-a920-4bc2-aaa6-fd6146346f9b",
-      "type": "+SpacePlanUnit",
-      "validity": true
-    },
-    {
-      "errors": [],
-      "id": "187708d5-c425-4f0b-9692-814041ba0c14",
-      "type": "+SpacePlanUnit",
-      "validity": true
-    },
-    {
-      "errors": [],
-      "id": "18e41bb4-aca6-4e4a-aef3-70e2c4e62fc5",
-      "type": "+SpaceLegal",
-      "validity": true
-    },
-    {
-      "errors": [],
-      "id": "18ef5b0d-06f9-4bd9-b02f-6bd73e8ea795",
-      "type": "+SpaceLegal",
-      "validity": true
-    },
-    {
-      "errors": [],
-      "id": "18f4d6c0-6259-4b93-aaa6-94f160f455c1",
-      "type": "+SpaceLegal",
-      "validity": true
-    },
-    {
-      "errors": [],
-      "id": "18fdd06a-1c81-4695-841e-76261b22d2ef",
-      "type": "+SpacePlanUnit",
-      "validity": true
-    },
-    {
-      "errors": [],
-      "id": "193225d7-d1dd-4785-ae90-a20d906df9fa",
-      "type": "+SpaceLegal",
-      "validity": true
-    },
-    {
-      "errors": [],
-      "id": "1a2b608d-c98c-4a69-813f-57bf7973be7a",
-      "type": "+SpaceScientificEvidence",
-      "validity": true
-    },
-    {
-      "errors": [],
-      "id": "1a6d4a39-4a8e-4535-ba45-98802909d0c5",
-      "type": "+SpacePlanUnit",
-      "validity": true
-    },
-    {
-      "errors": [],
-      "id": "1ae36762-9c02-4446-a1d2-49a7b347301c",
-      "type": "+SpacePlanUnit",
-      "validity": true
-    },
-    {
-      "errors": [],
-      "id": "1b446320-ac0f-4559-9892-b783e1385c3e",
-      "type": "+SpaceLegal",
-      "validity": true
-    },
-    {
-      "errors": [],
-      "id": "1bca5262-ab7a-4074-908a-24c1f08cb723",
-      "type": "+SpaceLegal",
-      "validity": true
-    },
-    {
-      "errors": [],
-      "id": "1c1392d0-72c2-475a-948c-e5d80e9565e0",
-      "type": "+SpaceLegal",
-      "validity": true
-    },
-    {
-      "errors": [],
-      "id": "1c2e1882-3537-443b-aa9d-785b4b42d20c",
+      "id": "124d5984-3bd4-4366-9d65-566ee8a84316",
       "type": "+SpaceRestriction",
       "validity": true
     },
     {
       "errors": [],
-      "id": "1d8126bc-1df5-463c-be49-c668981feb42",
+      "id": "132750d1-6556-49f5-b631-0e4c98a42904",
+      "type": "+SpacePlanUnit",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "134571c7-4418-46ce-813f-498b6cb9d123",
+      "type": "+SpaceLegal",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "15708131-492b-4f6f-9987-fe8579a07c47",
+      "type": "+SpaceLegal",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "15bbb3f8-8305-4974-ad02-5465307123f8",
+      "type": "+SpaceLegal",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "15c7f656-f850-4a3a-9ede-8ee9735846e7",
+      "type": "+SpacePlanUnit",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "160582f4-187b-4e18-b4ae-7c02a0c25b6e",
+      "type": "+SpacePlanUnit",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "1632aa1f-fc48-4601-b74f-8668ec3dca6c",
       "type": "+SpaceScientificEvidence",
       "validity": true
     },
     {
       "errors": [],
-      "id": "1d8e06dc-e3de-489a-b538-1ed1e3cf1c80",
+      "id": "173e658b-2a66-4dd5-bdd8-d37776dd9fab",
       "type": "+SpaceLegal",
       "validity": true
     },
     {
       "errors": [],
-      "id": "1dafb868-e808-4de4-bf59-cfd8d44d6b96",
+      "id": "17bf7390-7fa2-4adc-8b4a-ef7ad0c180ec",
+      "type": "+SpaceRestriction",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "18ad8eb3-20d7-4ae3-8d0d-05bbc80e6d69",
       "type": "+SpaceLegal",
       "validity": true
     },
     {
       "errors": [],
-      "id": "1e219b43-523f-471c-9e27-a3799a2d8ff2",
-      "type": "+SpacePlanUnit",
-      "validity": true
-    },
-    {
-      "errors": [],
-      "id": "1e97ad2c-2e1e-4bc8-a02e-ab01e30ecfeb",
+      "id": "19459241-477d-4f85-b158-616afdf94a89",
       "type": "+SpaceLegal",
       "validity": true
     },
     {
       "errors": [],
-      "id": "2103169d-92c2-4cab-8e17-9cfd46d35e10",
+      "id": "1c09da1f-06e6-4b00-b1af-4b1e7ad8c2e0",
+      "type": "+SpacePlanUnit",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "1db3edcd-f206-4fef-9d6f-e2dac1a2b473",
+      "type": "+SpacePlanUnit",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "1e1612d7-5864-4600-a7b3-9a1d8e148f13",
       "type": "+SpaceLegal",
       "validity": true
     },
     {
       "errors": [],
-      "id": "2110dc77-228d-4cc9-a826-3198cb9a48b5",
-      "type": "+SpacePlanUnit",
-      "validity": true
-    },
-    {
-      "errors": [],
-      "id": "215cafc7-d9f0-40bb-bedc-479f779edd84",
+      "id": "1e36b93c-71b1-488f-bdd1-282cabbc779a",
       "type": "+SpaceLegal",
       "validity": true
     },
     {
       "errors": [],
-      "id": "22370a71-25cf-432b-93ad-88650d663818",
-      "type": "+SpacePlanUnit",
-      "validity": true
-    },
-    {
-      "errors": [],
-      "id": "23b76b54-f81e-46cd-9592-f20db09c3072",
-      "type": "+SpacePlanUnit",
-      "validity": true
-    },
-    {
-      "errors": [],
-      "id": "24d09aef-8943-4161-ab68-219b2d39ccd7",
-      "type": "+SpacePlanUnit",
-      "validity": true
-    },
-    {
-      "errors": [],
-      "id": "2562a6c8-7577-407f-a7ba-1199232f1b96",
-      "type": "+SpacePlanUnit",
-      "validity": true
-    },
-    {
-      "errors": [],
-      "id": "25c5ba6f-9c29-484f-b0f9-16cdb40a18a3",
+      "id": "1e6febe8-40f8-4ba9-85b0-4c4c75913ef5",
       "type": "+SpaceLegal",
       "validity": true
     },
     {
       "errors": [],
-      "id": "26c85a7a-6578-4478-8c06-8cf245e5e155",
-      "type": "+SpacePlanUnit",
-      "validity": true
-    },
-    {
-      "errors": [],
-      "id": "26d11d3d-ba17-4d68-a651-bf302cc3046c",
-      "type": "+SpacePlanUnit",
-      "validity": true
-    },
-    {
-      "errors": [],
-      "id": "286bf71a-54f9-4f6a-825d-d94e2bb9a9b9",
+      "id": "1ef31c9d-b102-4db7-aad6-da08514948ab",
       "type": "+SpaceLegal",
       "validity": true
     },
     {
       "errors": [],
-      "id": "28d61832-1018-48fe-b536-7f0bf901e79e",
+      "id": "1f0c2917-8621-4349-92f0-770f61b99e63",
       "type": "+SpacePlanUnit",
       "validity": true
     },
     {
       "errors": [],
-      "id": "2a9d60e1-e2a2-46fb-8ca0-2f542fa8791d",
+      "id": "1f0e404c-f484-47ea-8e5e-e867e52a5f44",
       "type": "+SpacePlanUnit",
       "validity": true
     },
     {
       "errors": [],
-      "id": "2b00d5b1-31f0-4017-9060-99b0f53a30ef",
-      "type": "+SpacePlanUnit",
-      "validity": true
-    },
-    {
-      "errors": [],
-      "id": "2b91d8e1-6660-42e7-8d22-c96ee4e8fc88",
-      "type": "+SpacePlanUnit",
-      "validity": true
-    },
-    {
-      "errors": [],
-      "id": "2c7069ce-81a9-46c0-ac27-9491471c6403",
+      "id": "1f66ace0-0e7e-45ec-921f-cdf1731c0ee7",
       "type": "+SpaceLegal",
       "validity": true
     },
     {
       "errors": [],
-      "id": "2ca8a84d-66b9-48e0-b7a0-80a056c32f19",
+      "id": "1ffe0cc4-7705-4d49-ad64-b140fb6a88ef",
       "type": "+SpacePlanUnit",
       "validity": true
     },
     {
       "errors": [],
-      "id": "2cb6d4ae-1a91-4c01-8d83-c7528e85910c",
+      "id": "21352069-0ad3-46b8-b7cc-76d07048136d",
+      "type": "+SpaceLegal",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "227cbb24-6d05-478d-bd1e-87fb66a762ac",
+      "type": "+SpaceLegal",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "23e42004-e491-4304-81b3-441d982c7769",
+      "type": "+SpaceLegal",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "24b45e00-bcf9-4e09-9ab3-3d523c0e903f",
       "type": "+SpacePlanUnit",
       "validity": true
     },
     {
       "errors": [],
-      "id": "2dc907c0-9d2b-4442-8248-d195faf8e829",
+      "id": "250f0c4f-23d5-43c9-9516-12f0be180ac3",
       "type": "+SpacePlanUnit",
       "validity": true
     },
     {
       "errors": [],
-      "id": "2eb52fbf-d07a-4411-a9bd-57f13fc55f13",
+      "id": "257d43f6-6431-430b-9854-98b8bc4746b1",
+      "type": "+SpaceLegal",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "259e3d8d-a095-4c3b-b4dd-c0224de91f00",
+      "type": "+SpaceLegal",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "25eeee1f-60d5-4af4-94a8-48a2ae2a22d5",
+      "type": "+SpaceLegal",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "26c21115-85c7-482f-9fc0-60829f7d7114",
+      "type": "+SpaceLegal",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "26da844a-3e4e-4977-9f9e-d292a4a88a45",
+      "type": "+SpaceLegal",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "26ea077b-66f9-4590-87a4-f8c05e1cc5cf",
       "type": "+SpacePlanUnit",
       "validity": true
     },
     {
       "errors": [],
-      "id": "2eeef3fe-4bd7-4c99-82c9-7199313b6e8d",
+      "id": "27981c0d-b286-4c3a-bd1b-c2684c063b4b",
       "type": "+SpacePlanUnit",
       "validity": true
     },
     {
       "errors": [],
-      "id": "2ef45522-8fce-42b7-b448-8ba956ee4ef7",
+      "id": "27f622d2-9d3b-42bd-b5b2-36f21f68eff4",
       "type": "+SpacePlanUnit",
       "validity": true
     },
     {
       "errors": [],
-      "id": "2f689630-4a1c-4e2d-a581-056474590460",
+      "id": "2939c81e-d81e-450c-b01c-f7b3d0207ade",
+      "type": "+SpaceLegal",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "2957b3b4-ced9-4bf0-8b6f-0779972a701a",
       "type": "+SpacePlanUnit",
       "validity": true
     },
     {
       "errors": [],
-      "id": "2ff09341-ef76-4e10-8ab8-967b43c5587d",
+      "id": "29b62324-a85e-4289-bb34-289cb98290b3",
+      "type": "+SpaceLegal",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "2a7a07d9-e549-4bc3-ad54-0ccb566d1d41",
+      "type": "+SpaceLegal",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "2a970b8d-5fff-4f0f-8641-972b93a2e1bf",
+      "type": "+SpacePlanUnit",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "2abcc702-eca6-428a-a6fe-63eed376e181",
+      "type": "+SpaceLegal",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "2accc0fe-6826-44f4-b150-f8fa6b16032a",
+      "type": "+SpaceLegal",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "2b4a191a-910e-4cd3-bd8c-c112d7ff31e6",
+      "type": "+SpacePlanUnit",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "2c41d654-f0ac-4abb-bcb5-86378f987b48",
+      "type": "+SpacePlanUnit",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "2cde3d59-1728-40bb-96c2-2ebd28079de0",
+      "type": "+SpacePlanUnit",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "2dbc7d94-418e-41a8-b8c4-5eea9520336c",
+      "type": "+SpaceLegal",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "2dd1dc3e-1047-47d2-97c8-164bf837dca6",
+      "type": "+SpacePlanUnit",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "2e2700d4-14c7-4380-8021-b021228151bf",
+      "type": "+SpaceLegal",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "2e82af5b-0efa-4524-b85e-b67fabb7d4fb",
+      "type": "+SpaceLegal",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "2e8ac303-302c-4afe-afc4-4a3df1f717ee",
+      "type": "+SpacePlanUnit",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "2f71897d-49b0-41e0-89b4-2ee57fe08b9f",
       "type": "+SpacePlanUnit",
       "validity": true
     },
@@ -694,656 +604,644 @@
     },
     {
       "errors": [],
-      "id": "305a1106-0d6a-4bfb-a404-8c2563cd5d61",
+      "id": "30868705-4794-49a4-b146-6ec9eb30d08b",
       "type": "+SpacePlanUnit",
       "validity": true
     },
     {
       "errors": [],
-      "id": "31563e23-3f82-43a8-ab05-548317220d4e",
-      "type": "+SpaceLegal",
-      "validity": true
-    },
-    {
-      "errors": [],
-      "id": "32834e30-5519-420c-a28d-db50e9b2d4f2",
-      "type": "+SpaceLegal",
-      "validity": true
-    },
-    {
-      "errors": [],
-      "id": "32bb1261-90b6-4a1f-b811-5019549ff139",
-      "type": "+SpaceLegal",
-      "validity": true
-    },
-    {
-      "errors": [],
-      "id": "34291d9b-baba-47c3-9efd-3f64db0917a0",
-      "type": "+SpacePlanUnit",
-      "validity": true
-    },
-    {
-      "errors": [],
-      "id": "347a61b1-0635-4e0a-89a5-c3b301e8543a",
-      "type": "+SpaceRestriction",
-      "validity": true
-    },
-    {
-      "errors": [],
-      "id": "350591c4-ad6b-41ae-bf25-9e5554d94169",
-      "type": "+SpacePlanUnit",
-      "validity": true
-    },
-    {
-      "errors": [],
-      "id": "35cfa48b-a71e-4ea2-bc07-87c06109baa8",
-      "type": "+SpaceLegal",
-      "validity": true
-    },
-    {
-      "errors": [],
-      "id": "35d1fd61-f234-4da2-bd0c-0354d3d39b59",
-      "type": "+SpaceLegal",
-      "validity": true
-    },
-    {
-      "errors": [],
-      "id": "36a16aca-1fba-4623-9d6b-0a0ca77521cf",
-      "type": "+SpacePlanUnit",
-      "validity": true
-    },
-    {
-      "errors": [],
-      "id": "372cc560-95f3-4286-9837-577936d4e32c",
-      "type": "+SpacePlanUnit",
-      "validity": true
-    },
-    {
-      "errors": [],
-      "id": "373c7975-468d-4b48-b2b7-035293728e56",
-      "type": "+SpaceLegal",
-      "validity": true
-    },
-    {
-      "errors": [],
-      "id": "37c935df-e61e-4fbe-930b-5f45a96fb635",
-      "type": "+SpacePlanUnit",
-      "validity": true
-    },
-    {
-      "errors": [],
-      "id": "37fdc6ca-3972-4d6f-9ae6-5bd4c127fec6",
-      "type": "+SpacePlanUnit",
-      "validity": true
-    },
-    {
-      "errors": [],
-      "id": "38c4fbff-1e38-42d8-bd18-0d2b4f36521e",
-      "type": "+SpacePlanUnit",
-      "validity": true
-    },
-    {
-      "errors": [],
-      "id": "3948f38c-3e9f-48bc-8d59-de0a4e3b84f2",
-      "type": "+SpacePlanUnit",
-      "validity": true
-    },
-    {
-      "errors": [],
-      "id": "39eebe7a-36e0-41e8-b0e6-65e8d90e7b2d",
-      "type": "+SpaceLegal",
-      "validity": true
-    },
-    {
-      "errors": [],
-      "id": "3a907859-c0e8-4a2d-a2c2-a76a548eab59",
-      "type": "+SpacePlanUnit",
-      "validity": true
-    },
-    {
-      "errors": [],
-      "id": "3a97b422-3474-4364-aa59-7a2cbdb39635",
-      "type": "+SpaceLegal",
-      "validity": true
-    },
-    {
-      "errors": [],
-      "id": "3aa81e82-f2e4-4833-a5d9-6b9e476e5379",
-      "type": "+SpacePlanUnit",
-      "validity": true
-    },
-    {
-      "errors": [],
-      "id": "3acaf7f3-732c-48bf-947a-ae2aeec71fff",
+      "id": "313c5575-cd9b-4a9c-b33a-9eb8591322d5",
       "type": "+SpaceScientificEvidence",
       "validity": true
     },
     {
       "errors": [],
-      "id": "3b5c9ee0-877b-4be8-84a3-3ab02cfe0c52",
+      "id": "317d9522-b8c7-497b-8db4-b5518f517f26",
       "type": "+SpacePlanUnit",
       "validity": true
     },
     {
       "errors": [],
-      "id": "3c25ebcf-3d7e-436c-ac9c-22a95ac6f648",
-      "type": "+SpacePlanUnit",
-      "validity": true
-    },
-    {
-      "errors": [],
-      "id": "3dd14e9b-549c-40eb-97df-999ceb022be3",
+      "id": "31e9c519-c269-4880-ad1b-a83202a3779f",
       "type": "+SpaceLegal",
       "validity": true
     },
     {
       "errors": [],
-      "id": "3e312819-244f-4c36-b7fc-94270629d9f6",
+      "id": "31febeca-272d-4f8c-8329-a834f20474df",
       "type": "+SpaceLegal",
       "validity": true
     },
     {
       "errors": [],
-      "id": "3eda8016-7278-40eb-bc79-290ffe09dfdb",
+      "id": "35993e9e-5120-4ccc-95a3-12e5e04c44c2",
       "type": "+SpacePlanUnit",
       "validity": true
     },
     {
       "errors": [],
-      "id": "3f7ab481-d3e7-4f0a-a37d-b4e87e065db2",
+      "id": "359d96db-482a-46fd-a66c-64a4e6261706",
       "type": "+SpaceLegal",
       "validity": true
     },
     {
       "errors": [],
-      "id": "3f859390-8bad-4c77-bd1a-659c4c2ceb7d",
+      "id": "35a6810a-e0f7-4228-9204-afcbf98f65f5",
       "type": "+SpacePlanUnit",
       "validity": true
     },
     {
       "errors": [],
-      "id": "40b1c2ef-7cb9-4410-8e84-89d4a9a2f0e8",
+      "id": "35fc8a40-142c-485e-97ca-2a1c98c1c0c8",
       "type": "+SpaceLegal",
       "validity": true
     },
     {
       "errors": [],
-      "id": "40ca00f9-d3dd-43e7-9774-1784e6ccb75b",
+      "id": "36021a4c-a7c0-4cfb-8a05-fbf7a99b59e0",
       "type": "+SpacePlanUnit",
       "validity": true
     },
     {
       "errors": [],
-      "id": "4194da11-af8a-46fa-86a1-62a4d1f2b85b",
+      "id": "362e3842-93ee-4c02-9cd6-9fc9556b15f5",
       "type": "+SpacePlanUnit",
       "validity": true
     },
     {
       "errors": [],
-      "id": "4397a04b-9c0d-42d9-947f-f0c871666746",
-      "type": "+SpacePlanUnit",
-      "validity": true
-    },
-    {
-      "errors": [],
-      "id": "44029546-29cd-44e6-a2c4-fe0c5b79bfaa",
-      "type": "+SpacePlanUnit",
-      "validity": true
-    },
-    {
-      "errors": [],
-      "id": "44dd4a35-8156-4d3a-a37e-4ba2713f0598",
+      "id": "3652549e-fbc7-4c99-b8a5-7873b96b6520",
       "type": "+SpaceLegal",
       "validity": true
     },
     {
       "errors": [],
-      "id": "44f9cc3c-c7e7-4d6f-af50-26372c128ffe",
+      "id": "366e7c5b-6c82-4427-bc7e-027bbbc13aa1",
       "type": "+SpaceLegal",
       "validity": true
     },
     {
       "errors": [],
-      "id": "463c71bd-0b92-447e-89f7-2a1fb1ccbbc0",
+      "id": "36ab339a-a7e0-4b27-80c5-34b2de0a1325",
+      "type": "+SpacePlanUnit",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "391e29ef-2c29-4fda-9245-8f7f62455ee4",
+      "type": "+SpacePlanUnit",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "3989aa83-3bcb-49cf-a227-834f79f0e2cb",
+      "type": "+SpacePlanUnit",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "3a589661-e120-432c-b769-0a438c0b445f",
+      "type": "+SpacePlanUnit",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "3b6af6b8-5c4a-4aac-bf75-61f9ea0cc5b0",
       "type": "+SpaceLegal",
       "validity": true
     },
     {
       "errors": [],
-      "id": "468a5b3a-eb81-403d-ba62-f2c639aeb2c6",
+      "id": "3ba2dfb8-c5a2-49c8-99fc-161158657ca1",
+      "type": "+SpacePlanUnit",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "3bb5f2db-eae1-4922-bc73-11d21f2e355b",
+      "type": "+SpacePlanUnit",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "3bd462e2-d001-4205-9fc1-88c1acd1607b",
+      "type": "+SpacePlanUnit",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "3d89592f-0a70-4fa2-ac27-65a1cd71f8ee",
       "type": "+SpaceLegal",
       "validity": true
     },
     {
       "errors": [],
-      "id": "47208bd0-27b6-4d64-9515-29ee4b0be236",
+      "id": "3e7081a8-d729-471b-9cbf-a3bc315f8d3e",
       "type": "+SpacePlanUnit",
       "validity": true
     },
     {
       "errors": [],
-      "id": "476f22d1-4a10-4f49-b045-9203daa7ff5b",
+      "id": "3fedd51d-246b-4d16-a8c3-aee05ae412f9",
       "type": "+SpacePlanUnit",
       "validity": true
     },
     {
       "errors": [],
-      "id": "498ad0a8-1897-4ac3-92fa-fcd67149a005",
-      "type": "+SpacePlanUnit",
-      "validity": true
-    },
-    {
-      "errors": [],
-      "id": "4d14f74a-f6b1-4985-91d6-f76417d3aa1f",
+      "id": "40719d1d-72a0-48ec-bf30-6620e0bcd5b4",
       "type": "+SpaceLegal",
       "validity": true
     },
     {
       "errors": [],
-      "id": "4d459d43-0585-4d7c-acf6-53431b5a5301",
+      "id": "40e665f7-936e-4153-81d2-dc99cc23a852",
       "type": "+SpaceLegal",
       "validity": true
     },
     {
       "errors": [],
-      "id": "4d5dc9f8-100f-4a48-a3bf-8cebc6770776",
-      "type": "+SpacePlanUnit",
-      "validity": true
-    },
-    {
-      "errors": [],
-      "id": "4dfbcebd-6751-41c2-9452-82aeacefa304",
-      "type": "+SpaceLegal",
-      "validity": true
-    },
-    {
-      "errors": [],
-      "id": "4e151f31-9e99-48cc-906e-0dc02d33a4ba",
-      "type": "+SpaceLegal",
-      "validity": true
-    },
-    {
-      "errors": [],
-      "id": "4e499047-47b5-45da-ba05-3231cfcd1ecd",
-      "type": "+SpaceLegal",
-      "validity": true
-    },
-    {
-      "errors": [],
-      "id": "4f5b1637-e5da-4941-9059-02f7499b0e41",
-      "type": "+SpacePlanUnit",
-      "validity": true
-    },
-    {
-      "errors": [],
-      "id": "4f8056da-81ec-4243-82a3-3c6f182609b5",
-      "type": "+SpacePlanUnit",
-      "validity": true
-    },
-    {
-      "errors": [],
-      "id": "520f3ebe-c10d-47df-8f77-19202b95e848",
-      "type": "+SpacePlanUnit",
-      "validity": true
-    },
-    {
-      "errors": [],
-      "id": "522800ba-f5ce-4636-b417-34e50c699f0a",
-      "type": "+SpacePlanUnit",
-      "validity": true
-    },
-    {
-      "errors": [],
-      "id": "524bce92-41dd-43f4-823f-716e94dc43c1",
-      "type": "+SpacePlanUnit",
-      "validity": true
-    },
-    {
-      "errors": [],
-      "id": "529e866a-63a1-4381-8ad9-fa2b63f9b378",
+      "id": "40f0f0b5-53bd-4332-932e-f604ed003b51",
       "type": "+SpaceRestriction",
       "validity": true
     },
     {
       "errors": [],
-      "id": "5325bd19-2c96-48b3-8fe5-2eeeb755bba5",
+      "id": "427e4d60-e318-4a3e-8408-ae50b00dceb5",
       "type": "+SpacePlanUnit",
       "validity": true
     },
     {
       "errors": [],
-      "id": "54a5673b-4434-452a-b81c-9219d2340455",
+      "id": "42eded0d-e77a-4852-9c0d-05a5077c686f",
       "type": "+SpacePlanUnit",
       "validity": true
     },
     {
       "errors": [],
-      "id": "5557cc22-774f-4066-827d-ad318e8d7185",
+      "id": "432f8eb6-6fc0-459a-b97b-a387b4176c77",
       "type": "+SpacePlanUnit",
       "validity": true
     },
     {
       "errors": [],
-      "id": "560d2795-02c5-45f2-bbdd-49e6a723f8ea",
+      "id": "43e31be5-a464-44a9-aecf-2e4827735130",
       "type": "+SpacePlanUnit",
       "validity": true
     },
     {
       "errors": [],
-      "id": "585bb159-c0e8-442d-b691-1fbf76d212c7",
+      "id": "44439ecb-1b75-4e3d-96e6-e5d44fef00c6",
+      "type": "+SpaceLegal",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "445ab0e8-7d6e-4c0e-9713-09a3c5db4c1e",
+      "type": "+SpaceLegal",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "44f6ed72-dc7e-4e5f-8715-c4f86362581c",
+      "type": "+SpaceLegal",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "45e3c75d-bf8c-451a-b403-4ff2c1e68332",
+      "type": "+SpaceLegal",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "462cca08-66a3-4338-bb70-d457bfb40794",
+      "type": "+SpaceLegal",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "463039b0-0ae5-45e8-9e98-9d348af70a0d",
       "type": "+SpacePlanUnit",
       "validity": true
     },
     {
       "errors": [],
-      "id": "58902e92-238e-4bed-b3f1-5b7ff9091dcb",
+      "id": "46542b16-67b8-42ab-8e24-ecbe7b896003",
+      "type": "+SpaceLegal",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "46c14305-ba8a-486c-853d-da0e3fe7285c",
+      "type": "+SpacePlanUnit",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "46f5b1c4-e15b-4135-a445-8efe366e16a4",
+      "type": "+SpaceLegal",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "47244756-ae69-4fea-b61c-6a976fb54bf9",
+      "type": "+SpaceLegal",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "479a75ba-4107-4960-b7ab-db60b055b8cd",
+      "type": "+SpacePlanUnit",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "47be44d9-9bf0-425c-b8dc-6cbd5733398e",
+      "type": "+SpaceLegal",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "4976dac6-6db7-40d0-8018-a3e88537ac31",
+      "type": "+SpaceLegal",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "499871a0-1fed-4177-b478-4b92eb7fc93e",
+      "type": "+SpacePlanUnit",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "4b11b8cb-7409-4910-9bb0-233e8ed1d11f",
+      "type": "+SpacePlanUnit",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "4c0d139b-ce2d-4633-9f7c-797329fd7e50",
+      "type": "+SpaceLegal",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "4c6e5900-a98d-45f7-9ba2-90caaaac1acc",
+      "type": "+SpaceLegal",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "4d3a7508-2047-45b4-b743-4fb21a48e7ce",
+      "type": "+SpaceLegal",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "4d97c87d-a7df-4854-a301-0a861c3064ba",
+      "type": "+SpaceLegal",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "4dde2eb7-c105-4ca1-8771-602d3a45c231",
+      "type": "+SpaceLegal",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "4e127b68-90a2-429e-96ab-44b4f8ba8fb0",
+      "type": "+SpaceLegal",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "4f053450-8054-4155-b4e9-bec442a23ab2",
+      "type": "+SpaceLegal",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "4f6ee6e5-601b-4523-985a-1beeb3e10b0c",
+      "type": "+SpaceLegal",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "4fc0be4b-3368-4b23-b557-8bd333b6ef17",
+      "type": "+SpaceLegal",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "50835604-5808-4bea-b5e7-2c377c6196c9",
+      "type": "+SpaceLegal",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "509b0758-9327-4564-91aa-3273ff29d196",
+      "type": "+SpaceLegal",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "510ddf11-85d1-4cc7-95a1-616aaf3715e2",
+      "type": "+SpacePlanUnit",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "5183c81d-abe1-44f5-8658-f21774d3a490",
+      "type": "+SpacePlanUnit",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "53296c91-9736-42f1-85e9-df6a435bca3b",
+      "type": "+SpacePlanUnit",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "533d5dba-c41a-449c-9fd3-6b84448bb6f6",
+      "type": "+SpacePlanUnit",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "54493ba7-bf53-468a-96ab-eae7f35e99af",
+      "type": "+SpaceLegal",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "549f6f6c-39c2-4d35-94fc-5499b3bdace9",
+      "type": "+SpaceLegal",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "55618306-04a3-4389-beb8-4eb02ae730cf",
+      "type": "+SpaceLegal",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "56287add-73fc-4cac-bbc6-0a1ddcd9b0c6",
+      "type": "+SpaceLegal",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "57075f60-6bb2-4e45-8e69-32052c3134eb",
+      "type": "+SpacePlanUnit",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "5893a159-2c11-4603-84c1-6c62cde9e307",
+      "type": "+SpacePlanUnit",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "598d0e4f-8238-4d60-abba-4f89b060d714",
+      "type": "+SpacePlanUnit",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "5993d322-88d4-4dba-87b2-32aeca9ac64e",
+      "type": "+SpaceLegal",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "59b4b7c2-aedf-411a-867b-b528e064d56e",
+      "type": "+SpaceLegal",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "5b78c0fc-2f59-4e8f-a702-7f238d728d04",
       "type": "+SpaceScientificEvidence",
       "validity": true
     },
     {
       "errors": [],
-      "id": "5941fa1b-d30c-4529-b39f-714c965d8f49",
+      "id": "5cca1295-cf79-4dac-80f7-1db5db79356e",
       "type": "+SpaceLegal",
       "validity": true
     },
     {
       "errors": [],
-      "id": "5956e17b-6613-40a2-83db-99215e718f24",
+      "id": "5d3f9031-994b-4013-81a5-e55460124e4e",
+      "type": "+SpaceLegal",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "5f50a7ea-189f-486c-9674-1c8941607c6d",
       "type": "+SpacePlanUnit",
       "validity": true
     },
     {
       "errors": [],
-      "id": "5c4c58a0-d0da-421e-bd27-24a49014d6bd",
+      "id": "60cd4561-6053-4965-b140-1db39cf36e4d",
+      "type": "+SpaceLegal",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "6102efbd-94fb-4357-8e93-1e8b89d18ca2",
       "type": "+SpacePlanUnit",
       "validity": true
     },
     {
       "errors": [],
-      "id": "5c5e3a25-f173-47e7-8679-5784be5793ff",
+      "id": "629afdf6-9654-40a0-9b1d-ebcfa17a5a10",
       "type": "+SpaceLegal",
       "validity": true
     },
     {
       "errors": [],
-      "id": "5cac7209-5cd9-446c-abda-63ba11bd53f5",
+      "id": "66ebfbfa-164c-4be2-bd4d-ff2be63807ed",
       "type": "+SpacePlanUnit",
       "validity": true
     },
     {
       "errors": [],
-      "id": "5d0f94e2-bf5e-4b05-a601-b291ffe83d45",
-      "type": "+SpaceLegal",
-      "validity": true
-    },
-    {
-      "errors": [],
-      "id": "5d7b303c-f4db-48d7-af55-5ea681d79eda",
-      "type": "+SpaceLegal",
-      "validity": true
-    },
-    {
-      "errors": [],
-      "id": "5def5c71-8179-465a-879a-6392847ca751",
-      "type": "+SpaceLegal",
-      "validity": true
-    },
-    {
-      "errors": [],
-      "id": "5ea1d1ac-47a1-45b3-a2bc-b2124dcb59f3",
+      "id": "66fa7529-4ddb-4517-a052-7fb27cfd0974",
       "type": "+SpacePlanUnit",
       "validity": true
     },
     {
       "errors": [],
-      "id": "5edf5f99-fc90-449f-8de6-35ca21904042",
-      "type": "+SpaceLegal",
-      "validity": true
-    },
-    {
-      "errors": [],
-      "id": "5ef45581-d78b-443b-a7be-734039cad57f",
-      "type": "+SpaceLegal",
-      "validity": true
-    },
-    {
-      "errors": [],
-      "id": "5f144c5a-ecae-4626-8bf7-44ef324e688a",
+      "id": "68079ca8-a2f3-4826-842d-d7000806496c",
       "type": "+SpacePlanUnit",
       "validity": true
     },
     {
       "errors": [],
-      "id": "5f1e0523-2c87-4272-82c4-7b7167d8fa4c",
-      "type": "+SpaceLegal",
-      "validity": true
-    },
-    {
-      "errors": [],
-      "id": "5f9425b9-db02-4371-ad1d-15aa34b0c57b",
+      "id": "68af5a20-22d9-45ca-b00a-3a2a219e3c9b",
       "type": "+SpacePlanUnit",
       "validity": true
     },
     {
       "errors": [],
-      "id": "6055bdab-9efb-417d-ad9d-0816797ec61a",
+      "id": "691b5e0b-c0ad-4c04-a00b-c85b0f18a88c",
       "type": "+SpaceLegal",
       "validity": true
     },
     {
       "errors": [],
-      "id": "60869f38-501c-4cbb-ab55-faa79b08521b",
+      "id": "6a4dc37d-31a9-40df-935d-3be86b209f17",
       "type": "+SpaceLegal",
       "validity": true
     },
     {
       "errors": [],
-      "id": "609073eb-5234-4032-9d97-411f65bf1e5e",
-      "type": "+SpacePlanUnit",
-      "validity": true
-    },
-    {
-      "errors": [],
-      "id": "61d106a0-13cd-4c67-8558-19f3a67e781a",
-      "type": "+SpaceLegal",
-      "validity": true
-    },
-    {
-      "errors": [],
-      "id": "628d84be-ad18-4b9c-9d25-4397ad776bce",
-      "type": "+SpacePlanUnit",
-      "validity": true
-    },
-    {
-      "errors": [],
-      "id": "628ed64e-18fc-4faa-857b-cac13cc2f87c",
+      "id": "6b3b4ec2-1760-4e5a-8900-3b7d02428060",
       "type": "+SpaceScientificEvidence",
       "validity": true
     },
     {
       "errors": [],
-      "id": "632a04be-88b6-4c1a-91b3-76fc8b016876",
-      "type": "+SpaceLegal",
-      "validity": true
-    },
-    {
-      "errors": [],
-      "id": "63de9b99-68fe-41ab-9afe-82f62ca62548",
+      "id": "6bb9293f-5650-4dd6-9f82-63cc1c82e989",
       "type": "+SpacePlanUnit",
       "validity": true
     },
     {
       "errors": [],
-      "id": "651db3e3-c037-41ff-9a1a-16a3356a0872",
+      "id": "6bd541e8-34cb-41d3-8c18-160319d00cfb",
       "type": "+SpacePlanUnit",
       "validity": true
     },
     {
       "errors": [],
-      "id": "6664e1d3-8d98-452f-9f28-85826f52d0ec",
-      "type": "+SpacePlanUnit",
-      "validity": true
-    },
-    {
-      "errors": [],
-      "id": "670cb9c0-3ec4-45ff-b26c-5cb9447b5f0d",
-      "type": "+SpacePlanUnit",
-      "validity": true
-    },
-    {
-      "errors": [],
-      "id": "67365641-3c9a-4f93-9992-b8adad5b55b7",
+      "id": "6d1da62a-9d38-4b63-abd5-ab073d649235",
       "type": "+SpaceLegal",
       "validity": true
     },
     {
       "errors": [],
-      "id": "675490f9-3794-41d1-9c42-e5b77c3e2ec1",
-      "type": "+SpacePlanUnit",
-      "validity": true
-    },
-    {
-      "errors": [],
-      "id": "67d6b55d-46a6-4d68-b7b5-5ba4053c1dfc",
-      "type": "+SpaceLegal",
-      "validity": true
-    },
-    {
-      "errors": [],
-      "id": "680cdc85-a720-4250-a72e-b6e0eb7f5499",
-      "type": "+SpaceLegal",
-      "validity": true
-    },
-    {
-      "errors": [],
-      "id": "684b1ac9-5954-4c43-bb2d-3ec61726b0a7",
-      "type": "+SpaceLegal",
-      "validity": true
-    },
-    {
-      "errors": [],
-      "id": "68735180-824e-4b30-86f8-a2fda7727634",
-      "type": "+SpaceLegal",
-      "validity": true
-    },
-    {
-      "errors": [],
-      "id": "6885cd45-9c07-4976-bd60-dffb87ff6f28",
-      "type": "+SpacePlanUnit",
-      "validity": true
-    },
-    {
-      "errors": [],
-      "id": "68a5c37f-6448-4f94-a5ab-34c78c427a84",
-      "type": "+SpaceLegal",
-      "validity": true
-    },
-    {
-      "errors": [],
-      "id": "69993ffa-f697-4d5f-a1d2-5727e5e45b07",
-      "type": "+SpaceLegal",
-      "validity": true
-    },
-    {
-      "errors": [],
-      "id": "6b132dd7-ba81-43ab-9a3c-bc90960b1972",
+      "id": "6d9662f3-efd2-453c-b1f5-ceed2c727035",
       "type": "+SpaceRestriction",
       "validity": true
     },
     {
       "errors": [],
-      "id": "6be0676f-2628-4062-859b-24cc88d8fa19",
+      "id": "6de7bce9-74f2-4609-98b5-3368ad2e4bc6",
       "type": "+SpaceLegal",
       "validity": true
     },
     {
       "errors": [],
-      "id": "6d3ef167-666e-4976-9600-ef2685c2a7b3",
+      "id": "6e2901d4-862b-4f26-b650-182c8ee124db",
       "type": "+SpaceLegal",
       "validity": true
     },
     {
       "errors": [],
-      "id": "6f056167-c5d5-4180-8605-f40fa3eade6e",
+      "id": "6e7aa2fe-8be5-480b-ac39-e08b123f2407",
+      "type": "+SpaceLegal",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "6ee53e3c-1dee-462a-b1d2-b012d895f8e9",
       "type": "+SpacePlanUnit",
       "validity": true
     },
     {
       "errors": [],
-      "id": "6f7e35d8-2920-4abb-a19b-d624b3202690",
+      "id": "6eea041e-0dbc-45de-b2a1-5fa0fb4d39b6",
+      "type": "+SpaceLegal",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "6f6f7645-87f6-404c-b5a4-3911e2df2e0e",
       "type": "+SpacePlanUnit",
       "validity": true
     },
     {
       "errors": [],
-      "id": "6fab70dd-85e5-49ce-a10b-85b3c59bc748",
+      "id": "702ceef0-3d96-4be0-bf2c-18349b27c1fa",
       "type": "+SpacePlanUnit",
       "validity": true
     },
     {
       "errors": [],
-      "id": "6fb9ef1d-e6e2-41c6-973a-4652ee428b8a",
-      "type": "+SpaceLegal",
-      "validity": true
-    },
-    {
-      "errors": [],
-      "id": "700794c1-ecbd-4271-9cbb-4d11855636da",
-      "type": "+SpaceLegal",
-      "validity": true
-    },
-    {
-      "errors": [],
-      "id": "70343990-495d-499d-937b-a07cc06622c5",
-      "type": "+SpaceLegal",
-      "validity": true
-    },
-    {
-      "errors": [],
-      "id": "706ae7e4-ba87-4576-ad50-73256214ffdd",
-      "type": "+SpaceRestriction",
-      "validity": true
-    },
-    {
-      "errors": [],
-      "id": "70e09d62-c4c9-42ab-affe-e4749e2fb88a",
-      "type": "+SpaceLegal",
-      "validity": true
-    },
-    {
-      "errors": [],
-      "id": "70e35f38-ea84-47fa-8758-26a54d87306a",
-      "type": "+SpaceLegal",
-      "validity": true
-    },
-    {
-      "errors": [],
-      "id": "72ab7721-5a11-4e5a-802b-ddc8dff541f8",
+      "id": "70678fa6-039c-45b4-8e44-2e3892b2d123",
       "type": "+SpacePlanUnit",
       "validity": true
     },
     {
       "errors": [],
-      "id": "72d62721-774f-42ff-8d2c-f2de392cf444",
+      "id": "70e3a86a-406e-4c78-a7f0-10e93211302c",
       "type": "+SpaceLegal",
       "validity": true
     },
     {
       "errors": [],
-      "id": "72f14fde-d51b-442e-a94b-3b7d2ece1757",
+      "id": "715878ca-ebcc-4b8f-a741-9d1e5090d942",
       "type": "+SpaceLegal",
       "validity": true
     },
     {
       "errors": [],
-      "id": "73f3dcfc-9a0a-4acc-8742-d30e7217bd39",
+      "id": "716172d2-781d-4617-ad09-4441cd6adf57",
       "type": "+SpaceLegal",
       "validity": true
     },
     {
       "errors": [],
-      "id": "74a999ca-8276-4aa8-868e-de33e3a0b26b",
+      "id": "71c98115-ee5a-4741-a41a-880bb58c2529",
+      "type": "+SpacePlanUnit",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "71e7ef57-37bc-4bc5-a72f-86d3e75e2af9",
       "type": "+SpaceLegal",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "72372e08-5434-493b-b5ef-56201e0626ff",
+      "type": "+SpacePlanUnit",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "728683c1-2bd3-473c-8750-027ffb5b8760",
+      "type": "+SpacePlanUnit",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "738377ae-319e-4bac-838f-f7172fc8f012",
+      "type": "+SpacePlanUnit",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "748205c7-83dc-476d-949e-ce8c5deb806b",
+      "type": "+SpaceLegal",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "74fe6f48-5f9c-452c-8186-7fdea76c6cbf",
+      "type": "+SpacePlanUnit",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "753315b3-ca39-4641-8660-56cb4868dd42",
+      "type": "+SpacePlanUnit",
       "validity": true
     },
     {
@@ -1354,14 +1252,14 @@
     },
     {
       "errors": [],
-      "id": "75eda753-712d-48c6-9333-e7370d9c7333",
+      "id": "75afc77b-cd4c-4013-bcb0-90429df1a6ba",
       "type": "+SpacePlanUnit",
       "validity": true
     },
     {
       "errors": [],
-      "id": "76067066-53ea-4597-a6ed-730ecc9430b8",
-      "type": "+SpacePlanUnit",
+      "id": "764552fd-73c3-446e-9624-3106418929ac",
+      "type": "+SpaceLegal",
       "validity": true
     },
     {
@@ -1372,733 +1270,865 @@
     },
     {
       "errors": [],
-      "id": "76b2afea-9aac-43fa-909f-c1aeb3cf6cc0",
-      "type": "+SpaceLegal",
-      "validity": true
-    },
-    {
-      "errors": [],
-      "id": "7747db6c-f434-4738-8f35-de15619753f1",
-      "type": "+SpaceLegal",
-      "validity": true
-    },
-    {
-      "errors": [],
-      "id": "77615c58-8df6-4330-886c-905e89315015",
+      "id": "76bddf25-4814-4a83-aa6b-0628bd6f8bf9",
       "type": "+SpacePlanUnit",
       "validity": true
     },
     {
       "errors": [],
-      "id": "78ccb244-8b72-4182-80f1-c725ddc2beaa",
+      "id": "772f5c0e-ed3a-44d8-a6f4-89efba6bdec1",
       "type": "+SpacePlanUnit",
       "validity": true
     },
     {
       "errors": [],
-      "id": "794c7d8f-cd13-4c42-96ba-2710ce1c24ab",
+      "id": "7730355f-58fe-4beb-8fc6-f8dbeeaa4814",
       "type": "+SpaceLegal",
       "validity": true
     },
     {
       "errors": [],
-      "id": "7a30f8d2-d0c5-49d9-b81d-8f172a65c64b",
+      "id": "77eed46f-0239-4142-8942-2b54a0c23f8c",
+      "type": "+SpaceLegal",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "7811f488-bd9d-42d4-b54e-b0451ffe0030",
       "type": "+SpacePlanUnit",
       "validity": true
     },
     {
       "errors": [],
-      "id": "7c8ed711-fe6f-4285-8944-cff23f1f2f71",
+      "id": "79883b78-3268-4616-a9f7-4bee3b2fd4a9",
+      "type": "+SpaceLegal",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "798d5dc3-9f2e-427a-90d2-d805aebbe151",
+      "type": "+SpaceLegal",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "79ea39bb-a720-4cd4-ac65-4ca4c18daa2b",
+      "type": "+SpaceLegal",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "7a1fda62-dcb2-4a03-afcf-6661f05e74ee",
       "type": "+SpacePlanUnit",
       "validity": true
     },
     {
       "errors": [],
-      "id": "7ce8baf5-b27a-4702-97ad-1bb723f12c00",
+      "id": "7a597cbc-0211-4c04-b29c-c710da9d6448",
+      "type": "+SpacePlanUnit",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "7a66b60d-22f6-416a-8830-3fb2fcedc3e9",
       "type": "+SpaceLegal",
       "validity": true
     },
     {
       "errors": [],
-      "id": "7d3203c9-2a9b-4386-be68-ecdb07faef99",
+      "id": "7a950bea-bb25-4f69-adc0-9364b35c3f15",
       "type": "+SpaceLegal",
       "validity": true
     },
     {
       "errors": [],
-      "id": "7d5bd95b-184d-4dae-86f6-64423139040c",
+      "id": "7bd0ea15-216e-4607-9846-62927d790e95",
+      "type": "+SpaceLegal",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "7bd73660-97d5-4af4-9cc0-6fe5f1dae58e",
+      "type": "+SpacePlanUnit",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "7cc0bac0-357d-4b74-add7-61ca9d5f169d",
+      "type": "+SpaceLegal",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "7d3e218c-767b-457b-832b-ebfe9607dfee",
+      "type": "+SpacePlanUnit",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "7d80bac5-63bb-4d47-bdfb-4039596418f9",
+      "type": "+SpaceLegal",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "7dbb5a9a-a5ed-4519-b1ab-593840a3b362",
+      "type": "+SpacePlanUnit",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "7e03ccee-f2b1-4de6-a53c-2a8a5e58f122",
+      "type": "+SpaceLegal",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "7e5fa1de-1c00-4dfe-9120-967a8da522bb",
+      "type": "+SpaceScientificEvidence",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "7eb4484f-b86f-4010-94c0-bf466ff46ec1",
+      "type": "+SpaceLegal",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "7ebba7fc-ab98-4462-a116-e6ab24c4189f",
+      "type": "+SpaceLegal",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "7fa1070f-e5e8-439f-b752-0a7549df5d94",
+      "type": "+SpacePlanUnit",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "7fa3e6f2-8cb9-4711-a288-c7f6ee1e8557",
+      "type": "+SpaceLegal",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "7ffd58d1-e36c-4b60-905e-43e93455627f",
+      "type": "+SpacePlanUnit",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "80124735-324d-4f79-9da3-24f5b2042bbd",
       "type": "+SpaceRestriction",
       "validity": true
     },
     {
       "errors": [],
-      "id": "7dc16488-62e2-4f08-a1b8-449fd51d3bb5",
+      "id": "806947ce-a81d-4253-9505-4c1e4d0835d5",
+      "type": "+SpaceLegal",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "815b5d41-ef8b-47fc-ab18-5192f791ef3c",
+      "type": "+SpaceLegal",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "8187fd57-bb50-4299-840d-1ac001de58d7",
       "type": "+SpacePlanUnit",
       "validity": true
     },
     {
       "errors": [],
-      "id": "7efe51da-207b-4d57-a93b-e352fbcb96fc",
+      "id": "8204ee4d-22a1-401c-b741-88edbd81272d",
       "type": "+SpaceLegal",
       "validity": true
     },
     {
       "errors": [],
-      "id": "80880a00-0fcb-4ae2-8ba1-51a2ea9ee049",
-      "type": "+SpaceLegal",
-      "validity": true
-    },
-    {
-      "errors": [],
-      "id": "80be51fa-5a7a-44d3-8afd-bd7459ed3bd6",
-      "type": "+SpaceLegal",
-      "validity": true
-    },
-    {
-      "errors": [],
-      "id": "81644f59-8bac-43ff-8e4f-266983d3efdb",
-      "type": "+SpaceLegal",
-      "validity": true
-    },
-    {
-      "errors": [],
-      "id": "83015c9c-4b2c-416d-88a7-73b637eb54cf",
+      "id": "8244720a-2eb9-4096-afc4-7b9703225d05",
       "type": "+SpacePlanUnit",
       "validity": true
     },
     {
       "errors": [],
-      "id": "8402e17b-0338-4f8b-bfa1-8aa11f4658bb",
+      "id": "8324bd4c-ba97-4b8b-9df3-13801d240b87",
       "type": "+SpaceLegal",
       "validity": true
     },
     {
       "errors": [],
-      "id": "86f31d79-8364-44f4-bf50-1de2b609a6ef",
-      "type": "+SpaceLegal",
-      "validity": true
-    },
-    {
-      "errors": [],
-      "id": "874e0676-596f-4dcd-8b0c-f7d7b993dc57",
-      "type": "+SpaceLegal",
-      "validity": true
-    },
-    {
-      "errors": [],
-      "id": "8801a497-d970-43c9-86d0-dec79b6955cf",
+      "id": "84dbebd7-c7a4-43ed-a2db-bbfcaf71742d",
       "type": "+SpacePlanUnit",
       "validity": true
     },
     {
       "errors": [],
-      "id": "883fd270-69cf-459e-bfb9-5deb3258a59c",
+      "id": "86b5e245-5161-4517-93ec-3574fd304a2c",
       "type": "+SpaceLegal",
       "validity": true
     },
     {
       "errors": [],
-      "id": "888c8966-2c48-4f07-957e-3d50bd5790c0",
-      "type": "+SpaceLegal",
-      "validity": true
-    },
-    {
-      "errors": [],
-      "id": "89a3fb71-2539-4759-95ca-46a849a37cf0",
-      "type": "+SpaceLegal",
-      "validity": true
-    },
-    {
-      "errors": [],
-      "id": "8a9d1d62-a8f0-4df5-825d-f36588e42d5f",
-      "type": "+SpaceLegal",
-      "validity": true
-    },
-    {
-      "errors": [],
-      "id": "8aa52c86-507e-40b7-b30d-4a3c25088f5e",
-      "type": "+SpaceLegal",
-      "validity": true
-    },
-    {
-      "errors": [],
-      "id": "8b01379a-a8a4-47ef-82a8-3b0f9beb0f1d",
+      "id": "873ae1de-69b2-4d5b-9bac-47d2c5d9fc41",
       "type": "+SpacePlanUnit",
       "validity": true
     },
     {
       "errors": [],
-      "id": "906f4b53-2cd9-40eb-b884-d9295d31cb9e",
+      "id": "874b853c-48dd-4297-bd9a-c2ce2bfb2102",
       "type": "+SpacePlanUnit",
       "validity": true
     },
     {
       "errors": [],
-      "id": "90b95a51-d909-420b-af97-27df888aaee9",
+      "id": "87c746b1-0efa-4a76-a926-cd32b4db0729",
       "type": "+SpaceLegal",
       "validity": true
     },
     {
       "errors": [],
-      "id": "90d8cdeb-416a-4a5d-8d88-a29e4aa84401",
+      "id": "882ff842-d80e-4565-bf34-7d33310ef54b",
       "type": "+SpacePlanUnit",
       "validity": true
     },
     {
       "errors": [],
-      "id": "90dc8cf6-7902-4285-a121-33268b85b5dd",
-      "type": "+SpacePlanUnit",
-      "validity": true
-    },
-    {
-      "errors": [],
-      "id": "9292cb1d-52ae-42ed-98aa-5e02da920500",
-      "type": "+SpaceLegal",
-      "validity": true
-    },
-    {
-      "errors": [],
-      "id": "92bfbb75-20e5-4072-baab-061dbe1e53f0",
-      "type": "+SpacePlanUnit",
-      "validity": true
-    },
-    {
-      "errors": [],
-      "id": "93bd6b89-eda1-4c98-a6b9-b2dc9276dee0",
-      "type": "+SpacePlanUnit",
-      "validity": true
-    },
-    {
-      "errors": [],
-      "id": "93c4d9f2-a1f2-4feb-8498-1831194ffffd",
-      "type": "+SpacePlanUnit",
-      "validity": true
-    },
-    {
-      "errors": [],
-      "id": "9471ff6c-d3c7-4354-b69f-4c6f2a355551",
-      "type": "+SpacePlanUnit",
-      "validity": true
-    },
-    {
-      "errors": [],
-      "id": "956f6a18-aa1e-4786-bc0e-49dd3874d040",
-      "type": "+SpaceLegal",
-      "validity": true
-    },
-    {
-      "errors": [],
-      "id": "957694ee-6dc5-4e27-9e24-c59742a8577d",
-      "type": "+SpaceLegal",
-      "validity": true
-    },
-    {
-      "errors": [],
-      "id": "9585e0d0-4f04-4fdb-8eab-d26ab420e300",
-      "type": "+SpaceLegal",
-      "validity": true
-    },
-    {
-      "errors": [],
-      "id": "96688dc3-889d-4835-a1ce-27b97602e434",
-      "type": "+SpaceLegal",
-      "validity": true
-    },
-    {
-      "errors": [],
-      "id": "9701d1c5-fd52-492a-b3af-9c7dd936fd09",
-      "type": "+SpaceLegal",
-      "validity": true
-    },
-    {
-      "errors": [],
-      "id": "97a12ff0-afdf-427b-82e3-a5e64980c1d4",
-      "type": "+SpacePlanUnit",
-      "validity": true
-    },
-    {
-      "errors": [],
-      "id": "97af3861-a71d-4212-bacc-accf2c871400",
-      "type": "+SpaceLegal",
-      "validity": true
-    },
-    {
-      "errors": [],
-      "id": "99260e83-38bc-4229-b151-b842068fddd8",
-      "type": "+SpacePlanUnit",
-      "validity": true
-    },
-    {
-      "errors": [],
-      "id": "993bb89f-94f6-4186-b1e4-1004daf9cb31",
-      "type": "+SpaceLegal",
-      "validity": true
-    },
-    {
-      "errors": [],
-      "id": "9a9ff1ce-be24-49b1-884e-3b9e127962ee",
-      "type": "+SpaceLegal",
-      "validity": true
-    },
-    {
-      "errors": [],
-      "id": "9aeed4e4-387b-4781-95df-1cca3cc19e4a",
-      "type": "+SpaceLegal",
-      "validity": true
-    },
-    {
-      "errors": [],
-      "id": "9c1276bd-e1ce-4a74-a64b-88a32a4f8179",
-      "type": "+SpaceLegal",
-      "validity": true
-    },
-    {
-      "errors": [],
-      "id": "9c6f4b9a-7e82-4a73-8e69-f506971a92d2",
-      "type": "+SpacePlanUnit",
-      "validity": true
-    },
-    {
-      "errors": [],
-      "id": "9caa97c4-a4d6-49c1-9ecc-1ceeeb0e85a4",
-      "type": "+SpacePlanUnit",
-      "validity": true
-    },
-    {
-      "errors": [],
-      "id": "9ce44c09-e7a4-49b0-ae3b-acd7779c1446",
-      "type": "+SpacePlanUnit",
-      "validity": true
-    },
-    {
-      "errors": [],
-      "id": "9dec10ef-9643-4241-9abf-49cc0d63434a",
-      "type": "+SpaceLegal",
-      "validity": true
-    },
-    {
-      "errors": [],
-      "id": "9e31c725-4e83-47a8-aa94-a55d16ec110e",
-      "type": "+SpacePlanUnit",
-      "validity": true
-    },
-    {
-      "errors": [],
-      "id": "9e65b8c9-013a-4e70-9be5-f58a5a81c7ec",
-      "type": "+SpaceLegal",
-      "validity": true
-    },
-    {
-      "errors": [],
-      "id": "9ea1dfff-20bf-4b83-a38d-50bc2db06a6b",
+      "id": "88a9e8f9-8fa8-4f0d-a86a-04ca0c825f1c",
       "type": "+SpaceRestriction",
       "validity": true
     },
     {
       "errors": [],
-      "id": "9edfe2a5-3602-457e-84de-8fabf09e449c",
+      "id": "8a446875-deec-4ff9-a7df-3d1a17e51e57",
+      "type": "+SpaceLegal",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "8a565bf9-f1a3-44c9-b2be-fa8a3bb4cac5",
+      "type": "+SpaceLegal",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "8a59bbad-2965-4471-9629-76bbc8847628",
+      "type": "+SpaceLegal",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "8b4121ed-035f-4585-923f-f1d5925fc269",
+      "type": "+SpaceLegal",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "8b9a88aa-4a41-449c-b4cf-b5e73c3377c3",
+      "type": "+SpaceLegal",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "8c0c7f05-5122-41fb-ac3e-7e1a6a60b674",
+      "type": "+SpaceLegal",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "8c36ae3c-6993-4695-9fe3-2f83a9742fa9",
+      "type": "+SpaceLegal",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "8c42807d-a06a-4899-86f5-315ce22d7f01",
+      "type": "+SpaceLegal",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "8d179db1-fe0c-4b46-bedd-ac88f13653a3",
+      "type": "+SpaceLegal",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "8d192742-19f6-48b6-8d92-4fcacc39ab4f",
       "type": "+SpacePlanUnit",
       "validity": true
     },
     {
       "errors": [],
-      "id": "9ff9ceca-42e4-4a8e-b865-818a22fa0000",
+      "id": "8f17d14e-00ef-44a3-b2d9-a347ae4f0a00",
+      "type": "+SpaceLegal",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "8f85e8b8-2aa1-49ce-9054-27f645529134",
       "type": "+SpacePlanUnit",
       "validity": true
     },
     {
       "errors": [],
-      "id": "a0156a63-74bf-4c72-be01-d68b09b77d58",
+      "id": "8f871271-fa57-4725-9141-efe1be73268e",
       "type": "+SpaceLegal",
       "validity": true
     },
     {
       "errors": [],
-      "id": "a05fdf21-f24c-4a4b-b326-9768426d8d77",
+      "id": "8fb67881-3cdb-4461-b502-9af8c6f8fb96",
+      "type": "+SpaceLegal",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "907a540e-97f0-43a3-be49-f80e9235d6ca",
+      "type": "+SpaceLegal",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "90c82089-1d8e-4b1d-8b4f-fcff1b24b726",
       "type": "+SpacePlanUnit",
       "validity": true
     },
     {
       "errors": [],
-      "id": "a1d3d457-f8b8-4dd9-a05d-e6ab544ea3f7",
+      "id": "912aa83b-7d55-42b6-902b-aa51737a2345",
       "type": "+SpaceLegal",
       "validity": true
     },
     {
       "errors": [],
-      "id": "a2b2317b-952e-4e9f-a998-15fa7a2e043a",
+      "id": "9141348d-a3f3-4e35-beb9-8323759f2eb4",
+      "type": "+SpaceLegal",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "921a38af-4ea9-47d3-b64c-8a61675a5a96",
+      "type": "+SpaceRestriction",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "92b85295-d2a5-4da1-93a5-1afac46f2470",
       "type": "+SpacePlanUnit",
       "validity": true
     },
     {
       "errors": [],
-      "id": "a31eb786-f957-44cc-ab58-653b8ea5d9c6",
-      "type": "+SpaceLegal",
-      "validity": true
-    },
-    {
-      "errors": [],
-      "id": "a3a9221e-95dc-4fef-98de-353353c90de3",
-      "type": "+SpaceLegal",
-      "validity": true
-    },
-    {
-      "errors": [],
-      "id": "a4a80943-8c71-41a8-b95e-3ce995bae91b",
-      "type": "+SpaceLegal",
-      "validity": true
-    },
-    {
-      "errors": [],
-      "id": "a6975f5b-cee7-4f1f-a230-e5f3c5896353",
+      "id": "92e8424b-4eda-496a-93f7-04f63a9b4e60",
       "type": "+SpacePlanUnit",
       "validity": true
     },
     {
       "errors": [],
-      "id": "a6a4533a-1450-4690-ab07-a0935540e9cf",
+      "id": "93163d4f-b883-4b1b-8bfc-4ef6568798eb",
+      "type": "+SpaceLegal",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "9377d041-ecb7-4220-a576-ef00d51c0091",
+      "type": "+SpaceLegal",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "938aa7ab-526a-49a2-ba4e-b53475ad31e1",
+      "type": "+SpaceLegal",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "93ed6294-c52d-4e2d-b9d2-4757332eaf6b",
       "type": "+SpacePlanUnit",
       "validity": true
     },
     {
       "errors": [],
-      "id": "a7034087-ee1b-4487-a03d-d8dda664ce27",
+      "id": "942afdd7-c7ba-4dfd-ae32-5d85d8b7eb8d",
       "type": "+SpaceLegal",
       "validity": true
     },
     {
       "errors": [],
-      "id": "a709577a-3ed8-4988-8afb-39f6c0ddb707",
-      "type": "+SpaceLegal",
-      "validity": true
-    },
-    {
-      "errors": [],
-      "id": "a7509e63-c206-43fa-b469-046c2f26ada6",
-      "type": "+SpaceLegal",
-      "validity": true
-    },
-    {
-      "errors": [],
-      "id": "a7a9b58b-5bbe-4d27-89e8-aea6e9cf5f09",
-      "type": "+SpacePlanUnit",
-      "validity": true
-    },
-    {
-      "errors": [],
-      "id": "a7e4ad3d-638d-4d2f-add5-76e3e46ca9f8",
-      "type": "+SpaceLegal",
-      "validity": true
-    },
-    {
-      "errors": [],
-      "id": "a82e8603-b115-4404-87a5-a00d9d4f7d53",
-      "type": "+SpacePlanUnit",
-      "validity": true
-    },
-    {
-      "errors": [],
-      "id": "a94c05b0-b947-46b6-ad3d-092548c09b6f",
+      "id": "9501665f-dd0b-49ca-bac2-6e77a285b735",
       "type": "+SpaceScientificEvidence",
       "validity": true
     },
     {
       "errors": [],
-      "id": "a99a7d27-1b9b-47f7-9141-6ce158db7b90",
+      "id": "96899d52-43a6-40f2-872f-7d69d7fc30ea",
+      "type": "+SpacePlanUnit",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "976337e4-2952-4b00-872a-e158b22a721a",
       "type": "+SpaceLegal",
       "validity": true
     },
     {
       "errors": [],
-      "id": "aafd9838-f903-4703-9f89-e155569e980a",
+      "id": "97f07b10-4946-4979-8a70-3713277e960f",
       "type": "+SpacePlanUnit",
       "validity": true
     },
     {
       "errors": [],
-      "id": "ab08c582-606b-4ca5-b9f5-ba2a1c817b1d",
-      "type": "+SpacePlanUnit",
-      "validity": true
-    },
-    {
-      "errors": [],
-      "id": "ab91c61f-b492-404e-b85c-565211273028",
+      "id": "9995c210-577b-482f-8f47-3899ae8a8a52",
       "type": "+SpaceLegal",
       "validity": true
     },
     {
       "errors": [],
-      "id": "abb152d2-b731-43e7-ace5-08f5cfcaa46b",
-      "type": "+SpacePlanUnit",
-      "validity": true
-    },
-    {
-      "errors": [],
-      "id": "ac62f12b-ae18-46a9-bd40-3abbcb3006c3",
-      "type": "+SpacePlanUnit",
-      "validity": true
-    },
-    {
-      "errors": [],
-      "id": "ac80f594-dbc9-42e1-a525-b8d0854b2790",
-      "type": "+SpacePlanUnit",
-      "validity": true
-    },
-    {
-      "errors": [],
-      "id": "aca66dd5-71bd-4a9e-bc76-23d19dbdc2f6",
+      "id": "99ecc6df-cf59-42de-8fdb-27b88bd94683",
       "type": "+SpaceLegal",
       "validity": true
     },
     {
       "errors": [],
-      "id": "aced200d-3c78-47d5-acf1-028cf0f7a197",
+      "id": "9a251bf9-338d-4af7-98d8-ebc7e832ab6f",
       "type": "+SpacePlanUnit",
       "validity": true
     },
     {
       "errors": [],
-      "id": "ad18f5b1-d767-45c7-be81-9aa66c034143",
-      "type": "+SpacePlanUnit",
-      "validity": true
-    },
-    {
-      "errors": [],
-      "id": "ad6dbd5a-9f46-41ce-9cfb-e1bc9464b883",
-      "type": "+SpacePlanUnit",
-      "validity": true
-    },
-    {
-      "errors": [],
-      "id": "af2f333e-e65f-467e-b994-3192e18709b8",
-      "type": "+SpacePlanUnit",
-      "validity": true
-    },
-    {
-      "errors": [],
-      "id": "b03f7bf9-d6b4-433c-9b23-aa398eb0d4e2",
+      "id": "9a45aaf7-9546-4f57-bb60-eca48e19beb2",
       "type": "+SpaceLegal",
       "validity": true
     },
     {
       "errors": [],
-      "id": "b04c2f73-4ac4-4bf9-a33e-464857d2e236",
+      "id": "9a86b631-02bf-4878-8bb0-a65e62d9e139",
+      "type": "+SpaceLegal",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "9ae033cd-7164-4b65-bc52-c12afcce764c",
+      "type": "+SpacePlanUnit",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "9af4dcb9-77b3-410e-a0be-d36df9431c96",
+      "type": "+SpaceLegal",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "9b4f0258-343d-46bf-83c6-086bd92310ae",
+      "type": "+SpaceLegal",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "9c4d6b67-141e-40ac-931d-bd8666e6f47f",
+      "type": "+SpacePlanUnit",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "9c61a20e-dc9e-45a1-a85c-28af9754da15",
+      "type": "+SpaceLegal",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "9c9316bf-1404-438f-8328-562cc11bae94",
+      "type": "+SpaceRestriction",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "9d417768-8e23-429d-9a1c-ea772bfcda94",
+      "type": "+SpaceLegal",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "9dd67bfd-7337-448e-8e32-f2521fb13bf6",
+      "type": "+SpacePlanUnit",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "9f7037ca-aa04-4a35-8e6a-01461fde0df2",
+      "type": "+SpacePlanUnit",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "9f98d6df-ab4d-4dd4-a299-a714eb8cc066",
+      "type": "+SpaceLegal",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "9ff4d1f2-e5c8-4a03-888a-8c92235378ac",
+      "type": "+SpacePlanUnit",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "a002200d-82d8-487e-bfdd-6e2eef631536",
+      "type": "+SpacePlanUnit",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "a052ca5a-d66c-4f4f-bb19-d5041a385d6f",
+      "type": "+SpacePlanUnit",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "a184af30-c571-4526-877b-3fb58ab8d852",
+      "type": "+SpaceLegal",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "a2131e38-eb01-4015-bd94-a845f511e298",
+      "type": "+SpacePlanUnit",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "a2316e76-df56-43c9-ad82-b41ec2de539e",
+      "type": "+SpacePlanUnit",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "a288ae8d-8f35-4f2f-8351-e0c72cfae198",
+      "type": "+SpacePlanUnit",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "a465f6e2-90de-4fe5-9591-7dbfc3c66e40",
+      "type": "+SpacePlanUnit",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "a4e17875-f6e8-47d3-a6b7-853b52c687dd",
+      "type": "+SpaceLegal",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "a56f8b26-9802-40d1-b01c-376cdc170fd2",
+      "type": "+SpacePlanUnit",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "a6918159-4066-4c5d-bfd5-16b70bc45b86",
+      "type": "+SpaceRestriction",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "a6f549af-7e96-4db1-8749-13a0d87e739e",
+      "type": "+SpacePlanUnit",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "a70e47ef-1ee7-46e3-ac88-c57b5e717348",
+      "type": "+SpacePlanUnit",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "a73dd723-8a83-44d2-b876-bdf3456bd323",
+      "type": "+SpaceLegal",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "a850a005-3c26-4e48-a741-91a21671c6b9",
+      "type": "+SpaceLegal",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "a869db00-dabd-4ddc-ba63-bd1b052d69e8",
+      "type": "+SpacePlanUnit",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "a941507c-29f6-4359-be82-47383157d3e7",
+      "type": "+SpacePlanUnit",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "aa01b048-3df5-431c-a5e7-43e82e1ba1be",
+      "type": "+SpaceLegal",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "aae695ab-213c-4a20-b029-73a2fbdaf494",
+      "type": "+SpacePlanUnit",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "ab7d5efe-af0c-4772-a4ba-c4df7ae5c152",
+      "type": "+SpacePlanUnit",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "ac0ef51e-c008-4f6d-98f4-6010d89e82ea",
+      "type": "+SpacePlanUnit",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "ad38bbd2-f701-4713-a90d-8a6aacb55518",
+      "type": "+SpacePlanUnit",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "ad697580-513f-4813-8c83-4a60f35d0e25",
+      "type": "+SpacePlanUnit",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "ad9c1fd0-09a5-4227-a760-1d7f09b6f2c0",
+      "type": "+SpaceLegal",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "aec1ef8d-56a5-4632-8142-e2065e2a9018",
+      "type": "+SpaceLegal",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "af9fe9b7-5447-4b48-99ed-56277806cd4e",
+      "type": "+SpaceLegal",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "b019d55b-d9b8-4b85-95ff-5f3b37e5d67e",
+      "type": "+SpaceLegal",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "b115a6a6-4894-4d39-a1bc-239502f77c98",
+      "type": "+SpacePlanUnit",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "b190c3d7-294f-4f2e-96ad-c3851cf420ed",
+      "type": "+SpacePlanUnit",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "b23e15ae-e1da-4ad7-bd5e-85b268d230be",
+      "type": "+SpaceLegal",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "b2586495-fe8b-4220-9827-2357891678a7",
+      "type": "+SpaceLegal",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "b2b50a37-0703-4c52-85c1-8b6007b40d11",
+      "type": "+SpaceLegal",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "b3a86697-cfd5-4464-bc13-13b0e60d567c",
+      "type": "+SpaceLegal",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "b420894c-3f44-43f9-8d3e-2b906386f5cf",
+      "type": "+SpaceLegal",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "b527a8c0-8530-4f05-bf1a-67b439ef5fc2",
+      "type": "+SpacePlanUnit",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "b572a2b3-9dcd-4795-bcea-8b13704c44bb",
       "type": "+SpaceScientificEvidence",
       "validity": true
     },
     {
       "errors": [],
-      "id": "b1726d32-fee5-4c61-a8f4-367ca27cb700",
-      "type": "+SpaceLegal",
-      "validity": true
-    },
-    {
-      "errors": [],
-      "id": "b1929f03-536c-4572-98f2-b463eb6bc27d",
-      "type": "+SpaceLegal",
-      "validity": true
-    },
-    {
-      "errors": [],
-      "id": "b2b5f67a-cd4a-4cf1-b63c-fc2955515b69",
+      "id": "b5b4fb48-0974-4ae1-bdbf-edd55265b12a",
       "type": "+SpacePlanUnit",
       "validity": true
     },
     {
       "errors": [],
-      "id": "b3167446-d78d-4d14-8426-a8ff40ba61a5",
-      "type": "+SpaceScientificEvidence",
+      "id": "b689c3d6-66aa-4998-802c-7fbc67a784cd",
+      "type": "+SpaceLegal",
       "validity": true
     },
     {
       "errors": [],
-      "id": "b384f28e-8efa-4def-8f53-ba85131ad997",
+      "id": "b759b175-dc72-40aa-9618-0a406873f646",
+      "type": "+SpaceLegal",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "b7af6e25-7f2f-40b3-9fed-2f7b7b2c9c5c",
       "type": "+SpacePlanUnit",
       "validity": true
     },
     {
       "errors": [],
-      "id": "b4ebf527-26e4-40eb-b99c-04c6bbe30f32",
+      "id": "b88b1531-0c79-4be1-b59d-a3ae63b4e0eb",
       "type": "+SpaceLegal",
       "validity": true
     },
     {
       "errors": [],
-      "id": "b520670f-d26f-4ba4-98c5-e73ca8b654d1",
+      "id": "b901e2a3-5349-4f12-9670-bc15d4ad4383",
       "type": "+SpaceLegal",
       "validity": true
     },
     {
       "errors": [],
-      "id": "b55e4c59-9e19-47ff-acca-20192d704848",
+      "id": "b923ae90-6867-4b80-8911-4b956dcad8a4",
       "type": "+SpaceLegal",
       "validity": true
     },
     {
       "errors": [],
-      "id": "b5786ed5-5be4-4bed-ac92-be04313f4cba",
+      "id": "b96fd058-959c-471c-a13e-826496a3ebed",
       "type": "+SpaceLegal",
       "validity": true
     },
     {
       "errors": [],
-      "id": "b5bd8bf2-b54a-42ef-a704-9662e0c7f1b0",
+      "id": "b9e07c4f-ac10-4747-8e6d-d3dc637a25bc",
       "type": "+SpaceLegal",
       "validity": true
     },
     {
       "errors": [],
-      "id": "b5f10bad-383b-4ebf-bfe5-c6c537a80cdd",
+      "id": "b9fa291d-02a4-43e6-8237-cfebb13d86a8",
+      "type": "+SpaceLegal",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "ba91653a-e4c4-4b71-95c7-711d0d9fa53c",
       "type": "+SpacePlanUnit",
       "validity": true
     },
     {
       "errors": [],
-      "id": "b67cd957-0fda-4417-9d67-468d9b491ab2",
-      "type": "+SpacePlanUnit",
+      "id": "bb712031-735e-4611-9834-951d816ff61a",
+      "type": "+SpaceRestriction",
       "validity": true
     },
     {
       "errors": [],
-      "id": "b7244692-7e8d-4085-8c2b-b722bf0a1415",
+      "id": "bbcaa2ea-c2a8-481e-ab85-6d9141e438fc",
       "type": "+SpaceLegal",
       "validity": true
     },
     {
       "errors": [],
-      "id": "b7ffb223-726b-4112-90a5-1c5640fd8a03",
+      "id": "bc397be5-e62e-47f4-9524-4ce3b9d2a908",
       "type": "+SpaceLegal",
       "validity": true
     },
     {
       "errors": [],
-      "id": "b7ffbaff-8d65-4d26-af2b-06ddd8ce483d",
+      "id": "bc3e8a87-8b36-4d15-b9c6-8b21b9a3996f",
       "type": "+SpaceLegal",
       "validity": true
     },
     {
       "errors": [],
-      "id": "b8c3aa55-bc21-4aed-b556-9db01b568895",
+      "id": "bc80f802-6cd3-42cc-ab1f-53bdaafec5db",
+      "type": "+SpacePlanUnit",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "bd12ae96-3fd9-4f41-ade7-ac906d118fda",
       "type": "+SpaceLegal",
       "validity": true
     },
     {
       "errors": [],
-      "id": "b8d85409-3e16-4b26-9603-2f6980e822d3",
+      "id": "bd38ecee-0439-453e-8145-54783bf2bd53",
       "type": "+SpaceLegal",
       "validity": true
     },
     {
       "errors": [],
-      "id": "b9429908-14fc-4a82-8071-216d6d64c001",
+      "id": "bda5f2a1-7f69-4081-9b05-201a5cd273d5",
       "type": "+SpacePlanUnit",
       "validity": true
     },
     {
       "errors": [],
-      "id": "b9a04dec-9b56-456f-b6f1-f07894720218",
+      "id": "bdd603c2-978b-4667-a957-29229a507777",
       "type": "+SpacePlanUnit",
       "validity": true
     },
     {
       "errors": [],
-      "id": "b9c0ebf2-b3b0-4c36-9595-fdb66f897e37",
+      "id": "be683dde-b385-42a9-8ee2-7f7ede60fdda",
+      "type": "+SpacePlanUnit",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "be795167-ddc6-4ee7-bd9c-7ec288d56781",
       "type": "+SpaceLegal",
       "validity": true
     },
     {
       "errors": [],
-      "id": "ba112794-2ae6-4866-827a-3077535e6068",
-      "type": "+SpacePlanUnit",
-      "validity": true
-    },
-    {
-      "errors": [],
-      "id": "ba731baa-ef07-4374-b4c0-0eba245abf87",
+      "id": "bf97483e-dd27-4b02-bf92-873b81a6fde9",
       "type": "+SpaceLegal",
       "validity": true
     },
     {
       "errors": [],
-      "id": "baa8e89e-a20b-4d51-8643-efcdc51dbbbe",
-      "type": "+SpacePlanUnit",
-      "validity": true
-    },
-    {
-      "errors": [],
-      "id": "bae6d437-9d86-4831-a644-8307602f89fe",
-      "type": "+SpacePlanUnit",
-      "validity": true
-    },
-    {
-      "errors": [],
-      "id": "bb319ea5-4f48-4230-a15c-102ed2512ece",
-      "type": "+SpacePlanUnit",
-      "validity": true
-    },
-    {
-      "errors": [],
-      "id": "bb58ae1b-c340-43bf-aa82-1e57140b4774",
-      "type": "+SpacePlanUnit",
-      "validity": true
-    },
-    {
-      "errors": [],
-      "id": "bc892bf3-7fe0-433d-be74-b2375645b1a2",
-      "type": "+SpacePlanUnit",
-      "validity": true
-    },
-    {
-      "errors": [],
-      "id": "bcaec6a1-dc12-4d05-b202-a8d460371ff2",
-      "type": "+SpaceLegal",
-      "validity": true
-    },
-    {
-      "errors": [],
-      "id": "bd1517f7-157e-4a68-b68b-6e29e82dc409",
-      "type": "+SpaceLegal",
-      "validity": true
-    },
-    {
-      "errors": [],
-      "id": "bd65a9bc-29f0-4422-b6d5-ff6c59c3ad3f",
-      "type": "+SpacePlanUnit",
-      "validity": true
-    },
-    {
-      "errors": [],
-      "id": "bdcb39fb-6178-4911-90b4-c54848ff8fbb",
-      "type": "+SpaceLegal",
-      "validity": true
-    },
-    {
-      "errors": [],
-      "id": "bdd44144-fe8f-4a78-b7d5-a5a3af2772c8",
-      "type": "+SpacePlanUnit",
-      "validity": true
-    },
-    {
-      "errors": [],
-      "id": "bddba138-efb1-4916-bc42-3ec6f9932ffd",
-      "type": "+SpaceLegal",
-      "validity": true
-    },
-    {
-      "errors": [],
-      "id": "becb29ae-ad90-4649-93d4-708202412b7a",
-      "type": "+SpaceScientificEvidence",
-      "validity": true
-    },
-    {
-      "errors": [],
-      "id": "bf1d4fe5-58ba-44aa-845c-2c44ed0ddb22",
-      "type": "+SpacePlanUnit",
-      "validity": true
-    },
-    {
-      "errors": [],
-      "id": "bf9adb5a-ce63-44fc-a2dc-58cefde8cf37",
+      "id": "bfef04b9-7cd7-4b74-9abe-498964e60067",
       "type": "+SpacePlanUnit",
       "validity": true
     },
@@ -2110,686 +2140,656 @@
     },
     {
       "errors": [],
-      "id": "c049e1db-41b2-4a90-8266-8fe6c1c3f27d",
-      "type": "+SpaceLegal",
-      "validity": true
-    },
-    {
-      "errors": [],
-      "id": "c0791ea2-0256-4238-90bd-6b521ceea174",
+      "id": "c0d230e6-59be-42dc-8f96-f8ac9eb8392c",
       "type": "+SpacePlanUnit",
       "validity": true
     },
     {
       "errors": [],
-      "id": "c165033e-df11-49fb-acba-007e9929114f",
+      "id": "c0fb75e2-af3d-4ee4-abaa-aba8352b4f11",
+      "type": "+SpaceLegal",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "c1495306-9284-4935-8548-6b5563259d7c",
+      "type": "+SpaceLegal",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "c1857dd3-c369-4208-ba44-6d32ce58586e",
+      "type": "+SpaceLegal",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "c1878001-07a6-4f7c-9bd3-ece49253fae3",
       "type": "+SpacePlanUnit",
       "validity": true
     },
     {
       "errors": [],
-      "id": "c2b75c87-ddf8-4ce7-9e17-a09e52e9a5b4",
+      "id": "c1f267df-ca12-4dfc-a28e-538a8538d673",
+      "type": "+SpaceScientificEvidence",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "c20a3eaf-cd7b-4caa-a938-bfa6b35ac8f8",
       "type": "+SpacePlanUnit",
       "validity": true
     },
     {
       "errors": [],
-      "id": "c2e67a4c-5d5f-4084-a92c-4e5493d1fab6",
+      "id": "c2ae8672-cba5-4cfa-8ae2-0584a8268749",
       "type": "+SpaceLegal",
       "validity": true
     },
     {
       "errors": [],
-      "id": "c37082c5-80d7-4f70-81dc-96fe09eed88b",
+      "id": "c3665a1c-3d41-475d-bbb6-4fa673392299",
+      "type": "+SpaceLegal",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "c39f25aa-c7a4-4b3e-9bd5-ce0cac42640e",
       "type": "+SpacePlanUnit",
       "validity": true
     },
     {
       "errors": [],
-      "id": "c38f07b0-90a8-4078-b0ab-9d4ee4d54055",
-      "type": "+SpaceLegal",
-      "validity": true
-    },
-    {
-      "errors": [],
-      "id": "c3a3aa3c-5fcf-44e2-ae4e-bc4f3069ef5e",
-      "type": "+SpaceLegal",
-      "validity": true
-    },
-    {
-      "errors": [],
-      "id": "c4706577-00ef-4972-b746-6d021c34544f",
-      "type": "+SpaceLegal",
-      "validity": true
-    },
-    {
-      "errors": [],
-      "id": "c4dcfecb-803f-4f9a-866b-f9e9aafdd5b1",
+      "id": "c3a14b34-1417-447f-b868-dcbc776969f5",
       "type": "+SpacePlanUnit",
       "validity": true
     },
     {
       "errors": [],
-      "id": "c5762ff7-5fb7-4d1c-b4e7-43ef5edbed0d",
-      "type": "+SpaceLegal",
-      "validity": true
-    },
-    {
-      "errors": [],
-      "id": "c5a82289-1b49-411b-8e43-d9d00563ec6d",
-      "type": "+SpaceLegal",
-      "validity": true
-    },
-    {
-      "errors": [],
-      "id": "c5b2bf61-131c-4dac-9e43-be845285c074",
+      "id": "c462044b-6881-4c4a-bbd3-cf21686a31ad",
       "type": "+SpacePlanUnit",
       "validity": true
     },
     {
       "errors": [],
-      "id": "c612d9d2-9852-45ea-86d0-33d3db03fda3",
-      "type": "+SpaceLegal",
-      "validity": true
-    },
-    {
-      "errors": [],
-      "id": "c6477e0f-965f-4d5c-803d-cc2ff7650c3d",
-      "type": "+SpaceLegal",
-      "validity": true
-    },
-    {
-      "errors": [],
-      "id": "c6dcc3c7-ec17-41fe-908a-f83cf0c94d57",
-      "type": "+SpaceLegal",
-      "validity": true
-    },
-    {
-      "errors": [],
-      "id": "c7ab37b6-324c-4811-bc27-77e2d1e96380",
-      "type": "+SpaceLegal",
-      "validity": true
-    },
-    {
-      "errors": [],
-      "id": "c7e48714-3578-46c0-b8ce-c455d668fee3",
+      "id": "c47f4833-e194-49e7-a695-5202847365e3",
       "type": "+SpacePlanUnit",
       "validity": true
     },
     {
       "errors": [],
-      "id": "c812930e-1a34-4d23-b50e-bdb76d43167b",
+      "id": "c5fd0557-ac4c-40e8-bd72-c317c70d0f5b",
       "type": "+SpaceLegal",
       "validity": true
     },
     {
       "errors": [],
-      "id": "c856e17c-77c0-4496-b4c6-29ae85b0d2ef",
+      "id": "c602a70f-1475-4b02-9d65-35233caec3cf",
       "type": "+SpaceLegal",
       "validity": true
     },
     {
       "errors": [],
-      "id": "c9814ab0-8be7-4f68-b2f2-c40ee7043893",
+      "id": "c6070323-76fc-49eb-9d41-6ef62ca2a4ce",
       "type": "+SpaceLegal",
       "validity": true
     },
     {
       "errors": [],
-      "id": "c9be688e-7ded-4abb-8798-d9d8b5f3a59a",
+      "id": "c7aa1962-c254-4a80-aa2a-f66269b88dfc",
       "type": "+SpaceLegal",
       "validity": true
     },
     {
       "errors": [],
-      "id": "caa4d717-b488-4a98-878f-e27c1e044d71",
+      "id": "c7ed9bba-4d5b-4231-aa8e-77fc10a27c82",
+      "type": "+SpaceLegal",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "c833a865-2e46-4d91-ae47-8cf725a7487d",
       "type": "+SpacePlanUnit",
       "validity": true
     },
     {
       "errors": [],
-      "id": "cadbdec8-52a9-402e-a858-9c0e7d9280a7",
+      "id": "c838cee2-329d-41d7-92ea-37e31992fc07",
+      "type": "+SpaceLegal",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "c970772c-7c90-48b3-8de2-51d3606bdccb",
+      "type": "+SpaceLegal",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "c9bb2511-a8e8-4246-b99b-ae716a99764c",
       "type": "+SpacePlanUnit",
       "validity": true
     },
     {
       "errors": [],
-      "id": "cb0d2b5d-30b8-42f9-9c12-d8c0b8cabe72",
+      "id": "c9c22779-17ab-40cb-85d3-c501726d355c",
       "type": "+SpaceLegal",
       "validity": true
     },
     {
       "errors": [],
-      "id": "cda8f072-797a-40a8-b404-c2cf702ad878",
-      "type": "+SpaceLegal",
-      "validity": true
-    },
-    {
-      "errors": [],
-      "id": "ce3892da-3bd1-4bad-ab06-33cc59a53d20",
-      "type": "+SpaceLegal",
-      "validity": true
-    },
-    {
-      "errors": [],
-      "id": "ce838653-7934-4c7b-82c4-d4a574e285ac",
+      "id": "cad23121-0b1f-452b-abce-acc593195135",
       "type": "+SpacePlanUnit",
       "validity": true
     },
     {
       "errors": [],
-      "id": "ce91de41-8e59-47b1-85ae-f90b2ed76837",
+      "id": "cdd32fdb-f867-487e-b101-c1915ee80fed",
       "type": "+SpacePlanUnit",
       "validity": true
     },
     {
       "errors": [],
-      "id": "ce9c0f19-f6d8-4478-ac6f-a975a830fe1a",
+      "id": "cf652af3-1d89-41a9-b956-fc476ee9a604",
       "type": "+SpacePlanUnit",
       "validity": true
     },
     {
       "errors": [],
-      "id": "d0296aa7-6223-4be2-a879-37c2b1255efa",
+      "id": "d08dfe4e-4ce6-4541-a340-71fb9240f2cc",
       "type": "+SpacePlanUnit",
       "validity": true
     },
     {
       "errors": [],
-      "id": "d0d9e268-c830-4e70-9e6a-d463f9d6171d",
+      "id": "d0a2d098-2f58-4dc6-8dfe-d95e2a6b498f",
+      "type": "+SpaceLegal",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "d0d5c889-52da-4753-81a7-dc975e7d7d1e",
       "type": "+SpacePlanUnit",
       "validity": true
     },
     {
       "errors": [],
-      "id": "d110e87e-ba06-45d1-88f7-38c3c00aef8d",
-      "type": "+SpaceLegal",
-      "validity": true
-    },
-    {
-      "errors": [],
-      "id": "d19bfe4c-88de-42f9-8ade-b3a6fef1ccba",
-      "type": "+SpaceLegal",
-      "validity": true
-    },
-    {
-      "errors": [],
-      "id": "d2f58402-68e3-42ac-9bce-4c913ffc019e",
-      "type": "+SpaceLegal",
-      "validity": true
-    },
-    {
-      "errors": [],
-      "id": "d3ec0f29-1a6b-445a-a3ec-9f7c4db17100",
+      "id": "d104b928-bf9e-4bab-af72-2cb691c78a68",
       "type": "+SpacePlanUnit",
       "validity": true
     },
     {
       "errors": [],
-      "id": "d437a506-9390-4f8a-a470-886cda1ed606",
+      "id": "d1253402-5a39-4b17-a9a7-85d95422e333",
       "type": "+SpaceLegal",
       "validity": true
     },
     {
       "errors": [],
-      "id": "d4ebb31f-9b94-46d4-bff9-2a69ea0e43fd",
-      "type": "+SpaceLegal",
-      "validity": true
-    },
-    {
-      "errors": [],
-      "id": "d5919647-812d-4255-a8c2-fe165f8df5e8",
+      "id": "d1329571-4a5e-44f0-8e16-7d26abd287de",
       "type": "+SpacePlanUnit",
       "validity": true
     },
     {
       "errors": [],
-      "id": "d5ad3a8f-8ce2-48b1-851a-2405b55f3a1a",
+      "id": "d14dd7fd-be42-4e30-86db-5b15c67e971b",
       "type": "+SpaceLegal",
       "validity": true
     },
     {
       "errors": [],
-      "id": "d5e3cc89-3e93-42a4-af32-24183f738f15",
+      "id": "d1ac2747-8d36-4413-a922-8e39d3c36cc0",
       "type": "+SpacePlanUnit",
       "validity": true
     },
     {
       "errors": [],
-      "id": "d708ffc4-af47-4f62-ae9f-d320af0be91f",
+      "id": "d323605b-41b7-4964-9df7-497ada978c96",
+      "type": "+SpacePlanUnit",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "d44f74b5-e862-4718-9ff9-7583fec850e5",
+      "type": "+SpacePlanUnit",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "d49c6c6e-aa30-451d-8312-11ee50385a2f",
       "type": "+SpaceLegal",
       "validity": true
     },
     {
       "errors": [],
-      "id": "d7eed402-9557-4040-85cd-6a65af321966",
+      "id": "d507856c-034c-4675-ae37-cd848f69116b",
+      "type": "+SpaceLegal",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "d585ddd4-90c6-44ca-9000-94327755f668",
+      "type": "+SpacePlanUnit",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "d5c09417-1d80-4e73-80f5-ac11dc5c31c1",
+      "type": "+SpacePlanUnit",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "d77e8fde-b95d-4218-9497-005ee9a5cdfa",
+      "type": "+SpacePlanUnit",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "d7d6fe8a-006a-4bda-9fd3-e2f521a0d191",
+      "type": "+SpacePlanUnit",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "d9bbda93-a64e-4ab8-b004-045fc12a24c8",
+      "type": "+SpaceLegal",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "d9bf6bdd-3ab1-4d1e-b4a7-f2ff9a504a9a",
+      "type": "+SpaceScientificEvidence",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "da6a1c7b-6c4c-410d-a301-1fffe101cc33",
+      "type": "+SpaceLegal",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "dbcbe585-4071-40fb-aea9-af7b24e28381",
+      "type": "+SpaceLegal",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "dc0aec12-7cd5-48a9-8098-35046f026ab2",
+      "type": "+SpaceLegal",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "dc219eab-cbe5-4089-8bec-6191372210df",
+      "type": "+SpacePlanUnit",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "dcbe847b-5b81-40b9-9b06-b98bffaca39c",
+      "type": "+SpacePlanUnit",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "dde394eb-5875-4f58-9954-cbf1a3d8aea0",
+      "type": "+SpacePlanUnit",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "e00407c0-dfda-42a1-aa5a-e90b881b7c34",
+      "type": "+SpaceScientificEvidence",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "e115120c-e2eb-4293-851b-b34352776bcd",
+      "type": "+SpacePlanUnit",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "e1a19fc8-c7c2-4b3a-a027-da6ce344c646",
+      "type": "+SpacePlanUnit",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "e232fb14-6307-40bb-a92d-a9c5d4506af8",
+      "type": "+SpacePlanUnit",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "e2798c5e-2868-4f19-bc66-b3e590fd2ce2",
+      "type": "+SpacePlanUnit",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "e2e305a1-130e-4d29-ab37-8a03e10ae4c1",
+      "type": "+SpacePlanUnit",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "e44707e2-1ffe-4eb3-b008-318b920a7a3d",
+      "type": "+SpaceLegal",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "e46fc19c-a72f-484f-9dab-d0d9d051535b",
+      "type": "+SpacePlanUnit",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "e4b3a568-e902-4ac6-9c15-ad6a6ca11212",
+      "type": "+SpaceLegal",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "e533f68f-37bb-4b84-9f58-29625847857b",
+      "type": "+SpacePlanUnit",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "e5673fc1-dfe4-4746-9b36-dd0602e23456",
+      "type": "+SpacePlanUnit",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "e569cc13-fcef-483b-9894-b40288b36fad",
+      "type": "+SpaceLegal",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "e6739894-2d04-420e-98e3-56956190600d",
+      "type": "+SpaceLegal",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "e7512a3a-518b-41a6-9107-b79c53aeab13",
+      "type": "+SpacePlanUnit",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "e791d948-f8f0-47cb-b7b5-5f9458931915",
+      "type": "+SpaceLegal",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "e792d146-9518-4f6b-9dac-47312f36dc73",
+      "type": "+SpacePlanUnit",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "e7fd4af8-1b12-499c-8863-5f154ac4b72f",
+      "type": "+SpaceLegal",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "e856bca2-3ce0-4723-990d-8793323e69c2",
+      "type": "+SpacePlanUnit",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "e8cafe31-de77-4580-8204-5f7d671bb1b1",
+      "type": "+SpacePlanUnit",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "e912f43a-f2f2-48bd-8cf7-cec04c50016d",
+      "type": "+SpaceLegal",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "e991a1f2-5bd2-4650-97ed-83f23ed092e3",
+      "type": "+SpacePlanUnit",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "ea7eb390-3055-489d-9f8c-3f792675f3a8",
+      "type": "+SpaceLegal",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "eb2e555d-77e6-4349-ac1b-5bedd24b2ff1",
+      "type": "+SpaceLegal",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "ecd65115-d66a-48e3-9858-931e0e786a74",
+      "type": "+SpaceLegal",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "ed03b2df-4b46-4d1c-b45f-590feb3f062d",
+      "type": "+SpaceLegal",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "ed5ba934-f49d-45b5-b0f6-35a4694e5d44",
+      "type": "+SpacePlanUnit",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "edadbcf2-88fd-4aed-8625-4ca5ce0be9f7",
+      "type": "+SpacePlanUnit",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "edd320e1-c170-41a8-a92e-b2a4c6563c1f",
+      "type": "+SpaceLegal",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "ee0710ff-5d78-4637-ba0a-c31c3b81270c",
+      "type": "+SpacePlanUnit",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "ee4ac33a-47ab-4fbb-8a42-4f5104a2913d",
+      "type": "+SpacePlanUnit",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "ee7a692d-8424-4e32-ada2-f27ed8004a8f",
+      "type": "+SpacePlanUnit",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "eeeb004f-947d-4d98-b4ee-9a8dae39bb0c",
+      "type": "+SpaceLegal",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "efb74884-b3de-4500-8521-07803f7b53de",
+      "type": "+SpacePlanUnit",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "f0e3f1d6-8e4c-4c31-82cc-2a4e70ef8cc5",
+      "type": "+SpacePlanUnit",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "f156b99e-a04a-4467-9ef3-fa161230b43d",
+      "type": "+SpaceLegal",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "f1b936c8-4238-4bad-8f62-450961a39250",
+      "type": "+SpacePlanUnit",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "f20aa89b-08c0-4bae-900b-76642c0f82ff",
+      "type": "+SpacePlanUnit",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "f269369b-b85d-4c7b-a609-40cad59a60d7",
+      "type": "+SpaceLegal",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "f26e273d-9322-4f71-855d-4b8d85af200d",
       "type": "+SpaceRestriction",
       "validity": true
     },
     {
       "errors": [],
-      "id": "d9026315-104e-4cc8-a7f9-4dedcd59ac15",
-      "type": "+SpaceLegal",
-      "validity": true
-    },
-    {
-      "errors": [],
-      "id": "d9486691-bf4b-46bb-8619-07dcf78965ae",
-      "type": "+SpaceLegal",
-      "validity": true
-    },
-    {
-      "errors": [],
-      "id": "da1353bb-d141-4430-8405-cedf0cef9283",
-      "type": "+SpaceLegal",
-      "validity": true
-    },
-    {
-      "errors": [],
-      "id": "da1a182c-f763-485d-b103-948796b4a3f6",
-      "type": "+SpaceLegal",
-      "validity": true
-    },
-    {
-      "errors": [],
-      "id": "da279a6a-0352-4fc7-933c-7b286ac31481",
-      "type": "+SpaceLegal",
-      "validity": true
-    },
-    {
-      "errors": [],
-      "id": "da328281-aa6b-411c-b199-e065d01dbbed",
+      "id": "f2790251-1324-4600-a451-c7740030df04",
       "type": "+SpacePlanUnit",
       "validity": true
     },
     {
       "errors": [],
-      "id": "da488499-b092-4255-b7f6-d74a04859482",
+      "id": "f35475ff-005a-44f6-8d91-fe8eb11690b6",
       "type": "+SpacePlanUnit",
       "validity": true
     },
     {
       "errors": [],
-      "id": "da57704e-2cc9-4a1c-b599-2a7ad8d9b337",
+      "id": "f3d30f7f-5f71-4246-b9e0-ee3287218c08",
+      "type": "+SpaceLegal",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "f4328f48-14db-4182-9c21-5520de7c5453",
+      "type": "+SpaceLegal",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "f59de082-28eb-449b-8b96-49a264dc1484",
+      "type": "+SpaceLegal",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "f6123221-9d8c-4f00-8f2a-c165747e61ae",
+      "type": "+SpaceLegal",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "f6b9fdf8-7b9c-44e1-b357-55bbe850af81",
       "type": "+SpacePlanUnit",
       "validity": true
     },
     {
       "errors": [],
-      "id": "db4fbe28-9697-44f5-bda8-6a0ebf9734f6",
+      "id": "f6e2ea66-6aa8-4bab-952c-1de62c51e19a",
       "type": "+SpaceLegal",
       "validity": true
     },
     {
       "errors": [],
-      "id": "db611125-b8de-4653-9304-1bd64a1010c3",
+      "id": "fae3b5c0-0848-4070-a80e-7a77b6a75aad",
+      "type": "+SpaceLegal",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "fb8cdfb3-02f0-437b-b9cb-2f129da41dd0",
+      "type": "+SpaceLegal",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "fb92e58e-f3f5-4ab7-aed2-993b4a8915dc",
+      "type": "+SpaceLegal",
+      "validity": true
+    },
+    {
+      "errors": [],
+      "id": "fc6ab323-e533-4c0c-8094-9032239fdeee",
       "type": "+SpacePlanUnit",
       "validity": true
     },
     {
       "errors": [],
-      "id": "db7d3b41-5598-4b41-b247-0549a8089cb3",
+      "id": "fd1e2532-eabe-4cdb-99ad-900cb3a1a7dc",
       "type": "+SpaceLegal",
       "validity": true
     },
     {
       "errors": [],
-      "id": "dc76cc71-e6ef-427d-bf90-ae237ac9b942",
+      "id": "fd265526-d1de-4fc7-92a1-b6f0e432fcb4",
       "type": "+SpacePlanUnit",
       "validity": true
     },
     {
       "errors": [],
-      "id": "dd558ee7-c7e9-413a-9b2e-7af59802a866",
+      "id": "fd66ba6f-635e-4996-87b0-c25b1e99ef78",
       "type": "+SpaceLegal",
       "validity": true
     },
     {
       "errors": [],
-      "id": "de0d0a2b-7059-46e5-b8d7-af13bffa2efe",
+      "id": "fd83c98a-6006-43bc-9647-0a025e1d7de6",
       "type": "+SpacePlanUnit",
       "validity": true
     },
     {
       "errors": [],
-      "id": "de3e3b29-3444-48d4-bde5-9800c066d95c",
+      "id": "fd9aff7e-bbc4-4ea3-a80b-33a1beebb48d",
       "type": "+SpacePlanUnit",
       "validity": true
     },
     {
       "errors": [],
-      "id": "de7bfc40-5b11-4ac6-b46e-9d09cea836e1",
+      "id": "fe4f3e97-d600-4d13-a188-90e945fb6f11",
       "type": "+SpacePlanUnit",
       "validity": true
     },
     {
       "errors": [],
-      "id": "def8d184-2187-4b4a-a7fa-c509669609b4",
-      "type": "+SpaceRestriction",
-      "validity": true
-    },
-    {
-      "errors": [],
-      "id": "deff7cdf-4ecb-4f75-9e1a-608b289dbbae",
+      "id": "feca7725-dc6a-4baf-8982-ca79b09f24b4",
       "type": "+SpaceLegal",
       "validity": true
     },
     {
       "errors": [],
-      "id": "df4b3893-f612-4fff-a736-f9a4ffd7a54d",
+      "id": "ffef1e31-5dc2-4733-af20-8a2f65e8a7af",
       "type": "+SpacePlanUnit",
-      "validity": true
-    },
-    {
-      "errors": [],
-      "id": "df6d2a8a-fc39-4e7b-af49-86e8b4f2337d",
-      "type": "+SpaceLegal",
-      "validity": true
-    },
-    {
-      "errors": [],
-      "id": "e0bb193b-89ac-4d5e-be4b-8acaa09cb21c",
-      "type": "+SpaceRestriction",
-      "validity": true
-    },
-    {
-      "errors": [],
-      "id": "e1299be0-415c-45f0-906f-768e11ea1a29",
-      "type": "+SpaceLegal",
-      "validity": true
-    },
-    {
-      "errors": [],
-      "id": "e18a1f66-ea30-4a17-b6b8-0db2968973a2",
-      "type": "+SpaceLegal",
-      "validity": true
-    },
-    {
-      "errors": [],
-      "id": "e3501657-95b8-4252-abc8-f1ac4764aefa",
-      "type": "+SpaceLegal",
-      "validity": true
-    },
-    {
-      "errors": [],
-      "id": "e379ecb6-87c0-4204-a53b-62d171d9240c",
-      "type": "+SpaceLegal",
-      "validity": true
-    },
-    {
-      "errors": [],
-      "id": "e4727eea-f715-44c1-ae50-0c706a32843e",
-      "type": "+SpaceLegal",
-      "validity": true
-    },
-    {
-      "errors": [],
-      "id": "e510a10d-ca8b-41ba-ba92-3d0b347e7f08",
-      "type": "+SpaceLegal",
-      "validity": true
-    },
-    {
-      "errors": [],
-      "id": "e5bdfe6a-33fb-4260-9371-c5987eb4bd70",
-      "type": "+SpacePlanUnit",
-      "validity": true
-    },
-    {
-      "errors": [],
-      "id": "e665e421-7d74-4f25-b133-cac155594762",
-      "type": "+SpaceLegal",
-      "validity": true
-    },
-    {
-      "errors": [],
-      "id": "e6c9fae3-d452-4cf0-807e-b973465b7795",
-      "type": "+SpaceLegal",
-      "validity": true
-    },
-    {
-      "errors": [],
-      "id": "e7472e88-c130-4b35-8b83-4f6335d86127",
-      "type": "+SpacePlanUnit",
-      "validity": true
-    },
-    {
-      "errors": [],
-      "id": "e85ea131-679a-45fa-ae77-0d43e65d17e2",
-      "type": "+SpacePlanUnit",
-      "validity": true
-    },
-    {
-      "errors": [],
-      "id": "e8b050b2-52ff-4a70-b323-7ca96b189a55",
-      "type": "+SpaceLegal",
-      "validity": true
-    },
-    {
-      "errors": [],
-      "id": "e98e5ef5-aaf8-4308-bf5a-2c7159fe3c46",
-      "type": "+SpaceLegal",
-      "validity": true
-    },
-    {
-      "errors": [],
-      "id": "eb7f9b10-15f0-4493-b46e-87666a3e8b22",
-      "type": "+SpacePlanUnit",
-      "validity": true
-    },
-    {
-      "errors": [],
-      "id": "eb859484-fe7d-4b9c-8355-8c980867fc0b",
-      "type": "+SpacePlanUnit",
-      "validity": true
-    },
-    {
-      "errors": [],
-      "id": "ef449b8a-8575-41c1-89a8-4ef89c2021f3",
-      "type": "+SpaceLegal",
-      "validity": true
-    },
-    {
-      "errors": [],
-      "id": "ef479bfd-6b8a-4fae-9d9c-bc339445a7ae",
-      "type": "+SpaceLegal",
-      "validity": true
-    },
-    {
-      "errors": [],
-      "id": "ef54aa06-c7a4-4278-9d8a-a3e3dfe8a732",
-      "type": "+SpacePlanUnit",
-      "validity": true
-    },
-    {
-      "errors": [],
-      "id": "ef618d0d-6bc3-4833-8dea-658665f7ad57",
-      "type": "+SpaceRestriction",
-      "validity": true
-    },
-    {
-      "errors": [],
-      "id": "efbe4e45-415f-4509-98a7-c2ddff7cf217",
-      "type": "+SpaceLegal",
-      "validity": true
-    },
-    {
-      "errors": [],
-      "id": "f1187f54-c857-4d9a-9e98-774a8a5468ba",
-      "type": "+SpacePlanUnit",
-      "validity": true
-    },
-    {
-      "errors": [],
-      "id": "f1cc905b-daec-4216-875c-c27a5b0b3aa1",
-      "type": "+SpaceLegal",
-      "validity": true
-    },
-    {
-      "errors": [],
-      "id": "f25e07b6-c867-494a-810d-5773d89869fd",
-      "type": "+SpacePlanUnit",
-      "validity": true
-    },
-    {
-      "errors": [],
-      "id": "f263bc3f-8f23-4edf-8353-734d8e0dfc04",
-      "type": "+SpacePlanUnit",
-      "validity": true
-    },
-    {
-      "errors": [],
-      "id": "f29f0635-cba1-4781-a3fc-d7a64383c654",
-      "type": "+SpacePlanUnit",
-      "validity": true
-    },
-    {
-      "errors": [],
-      "id": "f2f6b9d3-b2d8-4378-b1f7-e9bfd29d495b",
-      "type": "+SpacePlanUnit",
-      "validity": true
-    },
-    {
-      "errors": [],
-      "id": "f33c1c2b-05f2-4ef0-9f56-24eb97689c50",
-      "type": "+SpacePlanUnit",
-      "validity": true
-    },
-    {
-      "errors": [],
-      "id": "f401f5cd-a5ae-47ac-aa38-63d7129bed7b",
-      "type": "+SpaceLegal",
-      "validity": true
-    },
-    {
-      "errors": [],
-      "id": "f433e66e-cb3d-4841-9ad7-8a18e9abd04d",
-      "type": "+SpacePlanUnit",
-      "validity": true
-    },
-    {
-      "errors": [],
-      "id": "f4ccf1a1-5b58-4634-8db0-e6fa41c1df30",
-      "type": "+SpaceLegal",
-      "validity": true
-    },
-    {
-      "errors": [],
-      "id": "f522866c-f925-459f-ac00-be30c92ba1d8",
-      "type": "+SpacePlanUnit",
-      "validity": true
-    },
-    {
-      "errors": [],
-      "id": "f57c8cdd-5ebe-4e53-a6af-ac6f79430ddd",
-      "type": "+SpaceLegal",
-      "validity": true
-    },
-    {
-      "errors": [],
-      "id": "f6c943b8-9021-4759-b723-4e3b6896ee46",
-      "type": "+SpaceLegal",
-      "validity": true
-    },
-    {
-      "errors": [],
-      "id": "f766413a-b988-4b6c-ac90-6e0a135eba20",
-      "type": "+SpaceLegal",
-      "validity": true
-    },
-    {
-      "errors": [],
-      "id": "f790e26f-f660-45a1-a5c6-9dbd0f66bdec",
-      "type": "+SpacePlanUnit",
-      "validity": true
-    },
-    {
-      "errors": [],
-      "id": "f7e238ac-e157-43da-a864-8f6172c52e61",
-      "type": "+SpaceLegal",
-      "validity": true
-    },
-    {
-      "errors": [],
-      "id": "f8fe91d5-5700-4525-ba8a-9e82ed526277",
-      "type": "+SpaceLegal",
-      "validity": true
-    },
-    {
-      "errors": [],
-      "id": "f917ba1e-bb1e-42be-9567-df677bc8be69",
-      "type": "+SpacePlanUnit",
-      "validity": true
-    },
-    {
-      "errors": [],
-      "id": "f923c13d-2114-49a4-bc78-ebe4daf3390d",
-      "type": "+SpaceLegal",
-      "validity": true
-    },
-    {
-      "errors": [],
-      "id": "f9448aba-40ba-475b-9d67-3f568fa03cd1",
-      "type": "+SpaceLegal",
-      "validity": true
-    },
-    {
-      "errors": [],
-      "id": "fa6460a2-b65d-4a77-8753-9b2bd93db2d2",
-      "type": "+SpacePlanUnit",
-      "validity": true
-    },
-    {
-      "errors": [],
-      "id": "fa6ee8c3-235e-430b-9579-68d422fca2f2",
-      "type": "+SpaceLegal",
-      "validity": true
-    },
-    {
-      "errors": [],
-      "id": "fae4b8a4-b884-484d-b8df-d474df90880e",
-      "type": "+SpacePlanUnit",
-      "validity": true
-    },
-    {
-      "errors": [],
-      "id": "fb2a0452-9ade-48f5-8835-df85520fa9c8",
-      "type": "+SpaceLegal",
-      "validity": true
-    },
-    {
-      "errors": [],
-      "id": "fb2b82e8-d8dd-428c-8b74-8a097c9a21cd",
-      "type": "+SpaceLegal",
-      "validity": true
-    },
-    {
-      "errors": [],
-      "id": "fb809baa-a255-46cf-8a98-6c6fec2a11eb",
-      "type": "+SpacePlanUnit",
-      "validity": true
-    },
-    {
-      "errors": [],
-      "id": "fbb5ce57-7c27-44bc-a2ae-4263db41aeb1",
-      "type": "+SpaceLegal",
-      "validity": true
-    },
-    {
-      "errors": [],
-      "id": "fc0d0ff2-b341-4010-bae4-d44a03fadc4e",
-      "type": "+SpaceLegal",
-      "validity": true
-    },
-    {
-      "errors": [],
-      "id": "fcf3d934-5731-4efa-8ab5-e9b219765b79",
-      "type": "+SpacePlanUnit",
-      "validity": true
-    },
-    {
-      "errors": [],
-      "id": "fe2fffdc-4f35-496e-8563-f7d2db385e32",
-      "type": "+SpaceLegal",
       "validity": true
     }
   ],
@@ -2830,7 +2830,7 @@
       "valid": 10
     }
   ],
-  "input_file": "E:\\Belgeler\\Projeler\\3D_Modelling_Space\\SPATIAL_DATA\\DENEME2\\EK_DENEME\\New_Validated\\moon.json",
+  "input_file": "C:\\Users\\guler\\Documents\\moon.json",
   "input_file_type": "CityJSON",
   "parameters": {
     "overlap_tol": -1.0,
@@ -2860,7 +2860,7 @@
       "valid": 1
     }
   ],
-  "time": "2026-06-02T15:30:59 (Mountain Daylight Time)",
+  "time": "2026-06-11T21:22:07 (Mountain Daylight Time)",
   "type": "val3dity_report",
   "val3dity_version": "2.6.0b0",
   "validity": true

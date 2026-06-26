@@ -1784,7 +1784,7 @@
       "valid": 134
     }
   ],
-  "input_file": "E:\\Belgeler\\Projeler\\3D_Modelling_Space\\SPATIAL_DATA\\DENEME2\\EK_DENEME\\New_Validated\\protected_areas.json",
+  "input_file": "C:\\Users\\guler\\Documents\\protected_areas.json",
   "input_file_type": "CityJSON",
   "parameters": {
     "overlap_tol": -1.0,
@@ -1804,7 +1804,7 @@
       "valid": 134
     }
   ],
-  "time": "2026-06-02T15:28:14 (Mountain Daylight Time)",
+  "time": "2026-06-11T21:24:12 (Mountain Daylight Time)",
   "type": "val3dity_report",
   "val3dity_version": "2.6.0b0",
   "validity": true
